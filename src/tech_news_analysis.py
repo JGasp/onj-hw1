@@ -13,13 +13,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
 from sklearn.manifold import MDS
+from sklearn.metrics import silhouette_score
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
 
-MAX_FILES_READ = 100
-NUMBER_OF_CLUSTERS = 10
+MAX_FILES_READ = 2000
+NUMBER_OF_CLUSTERS = 12
 
 
 class Document:
@@ -33,6 +34,10 @@ class CorpusMetadata:
     def __init__(self, documents: List[Document]):
         self.documents = documents
 
+        self.index = [i for i in range(len(documents))]
+        for i in self.index:
+            self.documents[i].title = "[{}] ".format(i) + self.documents[i].title
+
         self.titles = [d.title for d in documents]
         self.content = [d.text for d in documents]
         self.vocab_frame = self.build_vocab(self.documents)
@@ -43,6 +48,8 @@ class CorpusMetadata:
         self.tfidf_matrix = None
         self.clusters = None
 
+    def get_document_by_index(self, index: int):
+        return self.documents[index]
 
     @staticmethod
     def build_vocab(tech_news: List[Document]):
@@ -58,6 +65,7 @@ class CorpusMetadata:
         words = []
         for ind in self.order_centroids[cluster, :n]:
             words.append(self.vocab_frame.loc[self.terms[ind].split(' ')].values.tolist()[0][0])
+            # words.append(self.terms[ind])
         return ", ".join(words)
 
 
@@ -74,6 +82,8 @@ def load_tech_news():
 
             with z.open(filename) as f:
                 text_content = f.read().decode("utf-8")
+                text_content = text_content.replace('\'', '')
+
                 tech_news.append(Document(filename, text_content))
 
     return tech_news
@@ -113,9 +123,9 @@ def tokenize_and_stem(news_text):
 def calculate_tf_idf_matrix(corpus: CorpusMetadata):
 
     tfidf_vectorizer = TfidfVectorizer(
-        max_df=0.8,
+        max_df=0.7,
         max_features=200000,
-        min_df=0.2,
+        min_df=0.1,
         stop_words='english',
         use_idf=True,
         tokenizer=tokenize_and_stem,
@@ -139,17 +149,18 @@ def k_means_clustering(corpus: CorpusMetadata):
 
     frame = pd.DataFrame({"title": corpus.titles, "cluster": corpus.clusters},
                          index=[corpus.clusters], columns=["title", "cluster"])
-    print("Number of movies per cluster: \n{}".format(frame["cluster"].value_counts()))
+    print("Number of articles per cluster: \n{}".format(frame["cluster"].value_counts()))
 
     print("Top terms per cluster:\n")
     corpus.order_centroids = km.cluster_centers_.argsort()[:, ::-1]
 
     for i in range(NUMBER_OF_CLUSTERS):
-        print("Cluster {} words: {}".format(i, corpus.get_cluster_words(i)))
+        print("Cluster {} words: {}".format(i, corpus.get_cluster_words(i, 12)))
 
-        print("Cluster {} titles:".format(i), end='')
+        print("Cluster {} titles:".format(i))
         for title in frame.loc[i]['title'].values.tolist():
-            print(" {},".format(title), end='')
+            print("> ", end='')
+            print(title)
         print("\n")
 
 
@@ -163,9 +174,9 @@ def visualize_clustering(corpus: CorpusMetadata):
     pos = mds.fit_transform(corpus.dist)
     xs, ys = pos[:, 0], pos[:, 1]
 
-    cluster_names = dict([(i, corpus.get_cluster_words(i, 5)) for i in range(NUMBER_OF_CLUSTERS)])
+    cluster_names = dict([(i, corpus.get_cluster_words(i, 12)) for i in range(NUMBER_OF_CLUSTERS)])
 
-    df = pd.DataFrame(dict(x=xs, y=ys, label=corpus.clusters, title=corpus.titles))
+    df = pd.DataFrame(dict(x=xs, y=ys, label=corpus.clusters, title=corpus.index))
 
     groups = df.groupby('label')
 
@@ -188,6 +199,11 @@ def visualize_clustering(corpus: CorpusMetadata):
     plt.close()
 
 
+def evaluate_clustering(corpus: CorpusMetadata):
+    score = silhouette_score(corpus.tfidf_matrix, corpus.clusters)
+    print(score)
+
+
 if __name__ == "__main__":
 
     tech_news_data = load_tech_news()
@@ -196,4 +212,6 @@ if __name__ == "__main__":
 
     calculate_tf_idf_matrix(corpus)
     k_means_clustering(corpus)
+    evaluate_clustering(corpus)
     visualize_clustering(corpus)
+
