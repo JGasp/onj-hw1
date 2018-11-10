@@ -1,0 +1,2063 @@
+Number of articles per cluster: 
+9     336
+11    268
+0     264
+6     213
+1     170
+2     165
+8     134
+3     132
+10    104
+4      88
+5      76
+7      50
+
+Top terms per cluster:
+
+Cluster 0 words: spaces, researchers, energies, lighting, creating, university, power, scientists, materials, life, form, only
+Cluster 0 titles:
+> [4] Facebooks First VR World Is a Hideous Bride-of-Frankenstein Creation
+> [14] Startup in biotech adds two base pairs to genetic code -- and life on earth may never be the same
+> [40] Light emitting glasses herald new era for insomnia treatment
+> [89] The coming fuel cell revolution: What you need to know
+> [95] Pulsar navigation: piloting aircraft with the aid of the stars
+> [96] These CubeSat nanosatellites are powered with ice
+> [97] Adding the fourth dimension to 3D printing
+> [102] Diagnosing sleep apnea with smartphone apps
+> [551] GM turns your old Chevy Volt battery into a whole-house UPS
+> [561] Mercedes Joins Tesla in Selling Whole-House Battery Power
+> [579] MITs ultra-light composite morphing aircraft wing harkens back to the Wright brothers
+> [692] Evaporation engines using artificial muscles made from bacteria
+> [693] 3D white graphene could prevent electronics from overheating
+> [695] Automated design process creates smallest, most efficient photonic switch ever
+> [696] Breakthrough in shape memory alloy: 10 million bending cycles before failure
+> [699] Nanophotonics: Chronicling the rise of tiny optical devices
+> [700] 6 things you may not know about holography
+> [701] DARPA laser scanning: Bending light with a microchip
+> [702] Ultra-thin optical metasurfaces manipulate light in exotic ways
+> [704] How Darren Aronofsky Makes Earth Seem Unreal in One Strange Rock
+> [705] Skyscraper chips promise powerful computing boost
+> [709] Frequent travel may be required as NASA solicits new astronauts
+> [710] NASAs 2016 budget bigger than expected
+> [711] Exploring the Death Star space gun America never built
+> [712] NASA under orders to build a deep-space habitat by 2018
+> [713] Watch space debris grow exponentially over time
+> [714] Black holes increasingly seen as a key to life, burps and all
+> [715] Searching for life in the galaxys oldest neighborhoods
+> [718] Massive black hole tearing apart galaxy 12.4 billion light-years away
+> [744] Moores Law at 50: Its past and its future
+> [768] Giant fish cannon shoots 40 salmon per minute, is actually saving the environment
+> [770] How Nvidias RTX Real-Time Ray Tracing Works
+> [834] David Bowie: In memory of a sci-fi entertainment giant
+> [889] High-tech lidar helps uncover secrets Angkor Wat has hidden for centuries
+> [961] DARPA wants to build an Avengers-like flying aircraft carrier, to make drones even more effective
+> [963] Portable hydrogen fuel cell can recharge your phone, but its still too expensive for mass adoption
+> [1002] USA vs. Syria: The massive challenge of neutralizing chemical weapons from afar
+> [1019] Blackmore Is Betting the Rest Of the Lidar Industry Has It All Wrong
+> [1033] Flexible, biodegradable semiconductor chips made from wood could be produced on a mass scale
+> [1040] Breakthrough quantum dot hybrid LED is inexpensive and delivers vibrant color
+> [1041] Elastic buckling honeycomb structures bounce right back from major impacts
+> [1045] Kirigami stretchable batteries could herald flexible electronics era
+> [1056] Saturns moon Enceladus has a huge ocean of liquid water, scientists confirm
+> [1062] Hawking, Zuckerberg unveil $10B plan to reach Alpha Centauri in 20 years
+> [1063] Gene drive breakthrough creates weaponized mosquito extinction strain
+> [1064] Graphene spaser brings optical computing to the nano-scale
+> [1066] Weld by weld, NASA is getting closer to having the biggest rocket once again
+> [1067] Neil deGrasse Tyson says its very likely the universe is a simulation
+> [1070] A new theory of inertia could explain the EM Drives anomalous thrust
+> [1073] Surfing solar ocean platforms could one day power your home
+> [1074] Space-based relativity experiment is crucial to the search for gravitational waves
+> [1075] Japans 25-year plan to put a gigawatt solar power farm in space
+> [1076] Color-switching nano-laser brings real optical nanotech much closer
+> [1078] Say hello to MK 2, our solar systems newest moon
+> [1080] Super-powered neutrinos from another galaxy detected, offer insight into extra-galactic catastrophes
+> [1081] NASA tests impossible no-fuel quantum space engine - and it actually works
+> [1086] What is graphene?
+> [1088] Lunar IceCube will search for a spot to build on the Moon
+> [1089] Saturns moon Tethys streaked with red arcs that may be gone soon
+> [1091] Self-destructing batteries could change recycling, medical implants, even war
+> [1093] An acoustic prism can split sound the way a regular prism splits light
+> [1097] Tiny, oxymoronic super-massive black hole discovered
+> [1099] Low temperature combustion could drive efficient, clean diesel engines back into the limelight
+> [1107] The so-called fifth force of nature is starting to look more and more real
+> [1108] Accidental nanoparticles could let lithium ion batteries live another day
+> [1111] Study of distant Iris Nebula yields clues to the origin of life on Earth
+> [1113] Could an inflatable kevlar tube make space elevators practical?
+> [1114] In mice, a possible means to counteract multiple sclerosis
+> [1116] How to grow plants pre-processed for biofuel production
+> [1117] What is dark matter?
+> [1120] These three fungi could one day help recycle your phone battery
+> [1122] Scientists will use cosmic rays to peer inside Fukushima reactor
+> [1123] Habitable alien planets may be less common than previously believed
+> [1124] The Star Trek hypothesis: Are human-like aliens really that far-fetched?
+> [1125] What is dark energy?
+> [1126] New process can trap carbon as stone for construction, paving, and more
+> [1127] Incredibly tiny quadrotor autopilot brings promise and peril (with video)
+> [1129] Transforming mirror-bots could help rovers explore the darkest depths of alien worlds
+> [1130] China continues incredible space push with lunar rover launch in 2013
+> [1134] What is gene therapy?
+> [1135] Despite early reports, SETI doesnt think weve just found alien life
+> [1139] 30 years later, $1.6B mega-project finally puts Chernobyl to rest
+> [1140] DARPAs mirror-killing membrane could change astronomy, allow total global surveillance
+> [1145] Q-carbon is harder than diamond, incredibly simple to make
+> [1146] Huge German fusion reactor powers up, giving age-old tech a new shot
+> [1148] New microbial Deadman switch makes biotech safer for real world use
+> [1149] NASAs Swift discovers 100,000 super-massive black holes, in its spare time
+> [1150] NASA plans urgent spacewalks to repair ISS
+> [1152] From eons to hours: new process can pressure-cook algae into crude oil
+> [1155] Super-material could create robot muscles with 1000x human strength
+> [1156] What is a supernova -- or why stars explode, creating the universe as we know it
+> [1159] Chinese rover begins its journey to monetize the moon (with video)
+> [1160] A new thought experiment shows how we could get information from a black hole
+> [1163] Did lifes building blocks fly to Earth and Mars on solar winds?
+> [1165] This single-atom engine breaks the laws of physics, could drive progress in quantum computing
+> [1166] Wednelstein 7-X stellerator generates plasma, proves its promise for fusion
+> [1168] Twin stars headed for a rare Super-Chandra supernova event
+> [1169] Gravitational waves: One tiny chirp confirms both general relativity and black hole science
+> [1172] What are gravitational waves, and where does physics go from here now that weve found them?
+> [1175] Nano-laminated metals made ten times stronger
+> [1176] Twin black holes from gravitational wave discovery may have been born from a single star
+> [1178] Heres why we dont have light-based computing just yet
+> [1179] NASA beginning next generation of space communication with laser broadband
+> [1181] NASA is opening a new office for planetary defense
+> [1182] Spacetime curvature measured using a vanishing star
+> [1184] 40 years later, genomics could let Vietnam identify war dead
+> [1185] Brightest supernova ever could be key to measuring the universe
+> [1187] Deep frying graphene pom-poms could be key to better batteries
+> [1188] Cloaked chemo agents can treat lung cancer with 1/50th normal dose
+> [1190] NISTs graphene nanopore could let us read DNA directly
+> [1196] A new hydrogel uses holograms to warn you about your health
+> [1199] Whats the only thing better than gasoline? Audis bio-gasoline, produced by genetically engineered bacteria
+> [1200] A tribute to GALEX: Amazing photos of the universe captured by NASAs galaxy finder
+> [1202] A tribute to Cassini: 10 years spent revealing the secrets of Saturn and its moons
+> [1205] Extreme DIY: Homemade space suits, metal printers, and lifeforms
+> [1206] How to write with single atoms, on the cheap
+> [1207] IBM betting carbon nanotubes can restore Moores Law by 2020
+> [1208] NASA celebrates the arrival of Juno, its next-gen Jupiter probe
+> [1211] A Pac-Man satellite to grab and kill orbiting space debris
+> [1212] Astronomers spy a star with its planets right in the middle of formation
+> [1213] 3,500+ species discovered in Lake Vostok, underneath miles of ice, in conditions similar to Jupiters Europa
+> [1215] Astronomers are already planning the next, next Hubble telescope
+> [1218] Astronomers discover the first water clouds outside our solar system
+> [1221] Scientists are about to learn a whole lot about how climate change, drought affect crops
+> [1223] Optical lattice clock could change the definition of the second
+> [1224] Russia bets its energy future on waste-free fast breeder nuclear reactors
+> [1225] Huge black hole challenges theories of galactic evolution
+> [1226] Ancient supernovae may have accelerated evolution on Earth
+> [1229] With New Horizons, NASA continues a century of Pluto science
+> [1230] NASAs OSIRIS-REx to land on an asteroid and return samples to Earth -- possibly in 2016
+> [1231] New 2D super-material could beat graphene to becoming the new silicon
+> [1232] Crowdfunded satellite rescue mission becoming frantic as time runs thin
+> [1233] CERNs Large Hadron Collider confirms newest particle: the pentaquark
+> [1237] Curiosity rover finds surprising evidence of ancient continental crust on Mars
+> [1241] How do solar cells work?
+> [1244] How does the Large Hadron Collider work?
+> [1245] Philae goes dark again, just as comet starts coming apart in the Sun
+> [1246] The last few days of Pluto announcements have been amazing
+> [1249] Why are we still building space tech down here on Earth?
+> [1250] Mars once had falling snow, but lost it with the rest of its atmosphere
+> [1255] Whos killing the bees? New study implicates virtually every facet of modern farming
+> [1257] New form of carbon capture actually creates power, rather than consuming it
+> [1258] Scientists are about to use supernova cosmic rays to peer inside the most dangerous room in the world: Fukushima
+> [1259] DNA Studio Max: Automated nano-printing is coming into its own
+> [1260] New material combines photons for big solar energy gains
+> [1262] Earth acts as a giant particle accelerator, creating the dangerous Van Allen radiation belts
+> [1264] What is Moores Law?
+> [1273] Researchers claim that life arrived on Earth via asteroids and comets, but not in the way you think
+> [1275] Gravitational wave science gets go-ahead to revolutionize astronomy
+> [1278] Vibrating carbon nanotubes could give us an atomic-scale MRI
+> [1280] How does a lithium-ion battery work, and why are they so popular?
+> [1281] Stanford has created a water-droplet computer
+> [1282] Shenzhou-10 docks with space station, closing the gap between China and NASA
+> [1283] Thermo-acoustic nuclear fuel rods could scream for help when stressed, preventing nuclear meltdown
+> [1284] Hemophilia cures are proving gene therapy really is all its cracked up to be
+> [1285] Lightweight black hole merger detected, offering new insight into gravity
+> [1286] The best of SciStarter: DIY bioprinters, AR drones, and 19th century sailors
+> [1289] Proposed Neutrino Factory to answer one of the most fundamental questions of science
+> [1290] Incredible light-controlled proteomics could revolutionize both medicine and research
+> [1293] What is silicon, and why are computer chips made from it?
+> [1294] What are superconductors, and when will we all get maglev trains and unlimited electrical power?
+> [1295] Einsteinian error: The 25-year-old supernova that could change the speed of light forever
+> [1296] What is the Higgs Boson, and why is it so important?
+> [1297] This quantum ruler is the latest win against the many nevers of quantum science
+> [1298] NASAs IRIS satellite will reveal the inner workings of the Sun
+> [1299] Why gravitational wave detection may have also revealed dark matter
+> [1302] Earths poles may once have been far from the ends of the Earth
+> [1303] Dark energy camera accidentally snaps stunning 570-megapixel comet photo
+> [1305] NASA spacecraft nears orbit with Ceres, mysterious bright spots
+> [1306] 60,000 miles up: Space elevator could be built by 2035, says new study
+> [1307] Huge X-ray laser paves way for faster data storage
+> [1308] The next frontier in planet science: exo-rings
+> [1310] Report shows we really can fight climate change without breaking the bank
+> [1312] An eclipse is about to put Europes solar grid to the test
+> [1316] Astronomers are slowly figuring out why standard candle supernovae explode
+> [1318] Smallest-yet genome reveals how little we know about life -- synthetic or real
+> [1320] Graphene patch monitors blood glucose and auto-injects treatment
+> [1322] 2 billion-year-old African nuclear reactor proves that Mother Nature still has a few tricks up her sleeve
+> [1324] Astronomers discover three habitable planets just 40 light years away
+> [1325] Scientists use lasers to create the brightest artificial star in the sky
+> [1326] Possible new particle from LHC has physicists cautiously excited
+> [1328] Newly discovered element 117 is a step toward useful super-heavy elements
+> [1329] Controversial quantum EM Drive gets real NASA testing, lives to fight another day
+> [1334] Supernova shrapnel found in ancient bacteria provides evidence for life from non-living chemicals
+> [1336] MIT researchers publish a legend for alien hunting
+> [1340] Analysis: SpaceX passes a major fail test for its Dragon crewed capsule
+> [1341] New particle collider can smash electrons into holes
+> [1342] Soft Europa eel-rover could be powered by Jupiter itself
+> [1343] Animation shows advance of climate change with horrifying clarity
+> [1344] Worlds first superconducting power line paves the way for billions of dollars in savings, more nuclear power stations
+> [1345] Smart dust: A complete computer thats smaller than a grain of sand
+> [1346] Dual Carbon batteries: Is this finally the breakthrough weve been promised for so long?
+> [1350] Lamarcks revenge: The epigenetics revolution may redeem one of Darwins oldest rivals
+> [1351] Science may be close to understanding where heavy elements come from
+> [1353] NASA funds 3D food printer, to combat hunger in space and on Earth
+> [1356] The ESAs MELiSSA zero-g farm could make life sustainable in space
+> [1357] Solar superflares may have gotten life started on early Earth
+> [1358] US Navy looks to 3D printing to turn its city-sized aircraft carriers into mobile factories
+> [1359] NASA wants to turn CubeSats into full-fledged planetary explorers
+> [1360] Supergreen hydrogen creation could capture carbon from the air and de-acidify the oceans
+> [1361] New optical brain scanner can see your brain blush, rivals PET & MRI without using radiation or super-magnets
+> [1364] Upcoming Very Bad Idea #992: Using VR in the courtroom
+> [1365] OSIRIS-REx is about to go collect (and return) samples from an asteroid
+> [1366] MIT astronomer says NASAs focus on capturing asteroids in baggies is misguided
+> [1367] How does fusion power work, and will it ever be viable?
+> [1370] Magnesium-ion batteries could prove that two electrons are better than one
+> [1371] Explaining the unimaginable: How do nuclear bombs work?
+> [1372] Kepler: 20% of Sun-like stars have habitable planets, alien life Drake equation finally has a leg to stand on
+> [1376] ExtremeTech explains: How does nuclear energy work?
+> [1378] Risky fusion power study pays off by bringing plasma close to reactor walls
+> [1380] Cassini captures Earth - and all of humanity - from a billion miles away
+> [1387] The perfect planet-sized dark matter detector is already in orbit: GPS satellites
+> [1388] Laser freeze ray could change cooling biology labs, computer processors
+> [1389] Magnetic switches could use 10,000 times less power than silicon transistors
+> [1390] Magnetic fields could super-cool your gaming PC, nuclear reactors
+> [1391] Starting in 2018, China will begin turning coal plants into nuclear reactors
+> [1392] First: Astronomers capture a planet in the process of forming
+> [1394] Mars may be slowly crushing Phobos into a planetary ring
+> [1396] Birth of black hole witnessed, marking watershed moment for astronomy
+> [1397] The new dynomak fusion reactor design could make fusion power cheaper than coal
+> [1400] Quasars are disappearing and astronomers arent sure why
+> [1401] China and the US have a hotline to avoid military conflicts in space
+> [1404] To calibrate its fusion device, NIST is bending quartz crystals
+> [1405] Scientists record HIV moving through a living body
+> [1409] Why a flipped neutrino just won the Nobel Prize
+> [1420] SpaceX Grasshopper breaks reusable rocket altitude record at 700 meters (with video)
+> [1421] Tech entrepreneurs are investing in fusion -- do they know something we dont?
+> [1422] Scientists are still figuring out how their own memristors work
+> [1424] Researchers break Newtons third law -- with lasers
+> [1425] A swarm of cyborg insects used for mapping collapsed buildings
+> [1427] Scientists can now simulate curved space-time in a lab
+> [1428] Quantum skeptics now predict a working computer in 10 years
+> [1429] What are brain-machine interfaces, and how do they work?
+> [1430] Worlds most powerful MRI can lift a tank like Magneto, or see deep into your brain
+> [1431] How does 3D printing work?
+> [1432] LIGOs black hole detection survives the gravastar test
+> [1435] A booze comet is spraying ethanol across the solar system
+> [1438] Hydrogel implants could be a fiber optic network for your body
+> [1440] Team behind alien signal admits it likely originated here on Earth
+> [1444] ESA to test gravity meters with perfect 90-day free-fall
+> [1446] Scientists use DNA to shape graphene into the transistor of the future
+> [1447] Particle collider creates primordial goo of the early universe
+> [1448] Dark Energy Survey will spy on supernovae to explain universal expansion
+> [1449] Lithium doping turns graphene into a superconductor
+> [1451] NASAs radical new Hedgehog rover to learn from Philaes mistakes
+> [1452] China is headed to the far side of the moon
+> [1453] Breakthrough NIST study creates molecules out of photons
+> [1455] Gaia, ESAs revolutionary stellar cartographer, set to transform astronomy
+> [1457] New magnetic wormhole transfers fields undetectably
+> [1460] Super-antenna could let Mars rover talk directly with Earth
+> [1461] DARPA wants to build a robotic waystation in Earths orbit
+> [1464] Can the impossible space drive survive falsification in orbit?
+> [1465] Terminator polymer can spontaneously self-heal in just two hours
+> [1470] DARPA begins work on the XS-1 reusable spaceplane
+> [1476] How DNA sequencing works
+> [1478] Graphene photodetectors integrated into CMOS silicon chips, could herald new optoelectronic era
+> [1480] Scientists build the first carbon nanotube computer, change computing world forever
+> [1481] Mars hopper could be the key to uncovering the mysteries of the red planet
+> [1482] NASAs big announcement was worth the wait: confirmed cryovolcanoes on Europa
+> [1486] Earth is no longer the only planet with confirmed geological activity
+> [1487] After 11 years, physicists must rethink gravitational waves
+> [1488] The UK now gets more power from renewables than coal
+> [1649] These shoes generate power with every step you take
+> [1989] The first large-scale invisibility cloak that hides objects from visible light
+
+
+Cluster 1 words: google, microsofts, window, app, device, android, tablets, users, phones, applications, mobility, updates
+Cluster 1 titles:
+> [0] Microsofts holoportation tech could be key to supplanting phones
+> [15] Baidu Enters the AI Assistant Fray With DuerOS
+> [54] Dawn of the robotic butler: R2D2s descendants already walk (or roll) among us
+> [68] Smartphone microscope detects blood-born parasites
+> [82] Microsoft Bing Predicts and the future of gambling
+> [100] Facebook Messenger matures into a platform -- but can it succeed as one?
+> [108] Sorting through wireless musics dizzying array of options
+> [116] Smart TVs in 2015 - The next OS battleground
+> [118] Blackberry wants to force popular services onto its platform in the name of net neutrality
+> [119] Vivaldi: Opera team builds a better browser, but is there room for it?
+> [121] Google takes on iBeacon with open-source Eddystone
+> [123] Windows Media Center is dead - here are the best alternatives
+> [124] Return of the search wars: The rise of contextual awareness
+> [125] Microsoft and the iPod
+> [139] Is the phablet the future of smartphones?
+> [140] Email is evolving -- and yet still thriving
+> [141] Microsoft saw the future, but missed creating it
+> [144] Rolling Update: The automobile is the next great app platform
+> [145] Windows 10 vs. OS X Yosemite: The desktop still matters
+> [243] New Skinny Tile tracker fits in your wallet, helps you find everything else
+> [497] Audi A3 is first car with embedded 4G LTE - but will owners go broke streaming movies?
+> [565] Hyundai first out with Android Auto -- last rites for in-dash GPS navigation? [UPDATED]
+> [568] Chevrolet launches Apple CarPlay, Android Auto across 14 models
+> [679] Hey, Google! Nissan, Mitsubishi, Renault Tap Android for Infotainment
+> [698] Low-cost, tunable smart windows developed with electrokinetic pixels
+> [717] Microsoft, Mojang unveil Minecraft: Education Edition
+> [724] ET Thanksgiving deals: HP 7 tablet for $50, Xbox 360 with Peggle 2 for $100, more
+> [725] ET Black Friday Deals: ThinkPad X1 Carbon for $840, 24-inch monitor $99, USB 3.0 hub $7, more
+> [732] Microsofts Cortana hands on: The best of Google Now and Siri combined
+> [739] First look: Hands on with Ubuntu on Windows 10
+> [745] Hands on with Lenovos IdeaPad Miix 700: Proof that Microsofts Surface strategy is working
+> [755] Microsofts new Ink Workspace is less than youd think from the headlines
+> [760] Lenovo X1 Carbon vs. Yoga: Which ThinkPad Model Is Right for You?
+> [764] Microsofts Surface tablets should have been Nexus devices
+> [774] Windows 10: The biggest problems, gripes, and missing features so far
+> [777] Adobe To Drop Support For Older OSes In Creative Cloud
+> [786] Magic Leap Takes the Covers Off Its First Mixed Reality Headset
+> [789] Can Microsofts new triumvirate reboot the behemoth, or will it be more of the same?
+> [790] Office for Touch may be the Office youve always wanted
+> [796] Googles rumored standalone VR headset may employ Movidius chips
+> [800] Google gives everyone machine learning superpowers with TensorFlow 1.0
+> [806] How to Edit a PDF
+> [807] Samsung Galaxy Tab S3: finally a worthy successor to the Note 10.1
+> [817] Living with Amazons Echo: A cylinder of fun and frustration
+> [822] Google and Lenovo team up to bring Project Tango to consumers
+> [829] Jides Remix ultra-tablet puts Android on a Microsoft Surface clone
+> [832] Lumus and InfinityAR aim to do for augmented reality what Oculus has done for VR
+> [843] How Lenovo is succeeding despite a shrinking market for PCs
+> [850] Why cant Microsoft get Windows 10 updates right?
+> [855] How Google and eBay could save local retailers with same-day delivery
+> [856] Windows 10: Microsoft raises the stakes for mobile Windows
+> [859] Adobe bets on Chromebooks for education with slew of mobile apps
+> [860] Windows 10 preview: A glimpse of our desktop future
+> [861] Living with Samsung Gear VR: A little something for everyone
+> [862] Google taps chipmaker Movidius to add machine learning to phones
+> [863] Google sells Motorola to Lenovo for $3 billion, throws in the smartphone towel
+> [867] Living With the Huawei MediaPad M5: Solid Value, With Entertainment Focus
+> [874] Hands On With Plexs New VR Theater
+> [876] Startups ODG and Meta One-Up Microsoft HoloLens
+> [877] The Future Of Android Tablets May Be Chrome OS
+> [878] Windows 10: Heres what Microsoft should have done instead
+> [880] Hands on with Lenovos Phab2 Pro Tango augmented reality phone
+> [883] Huawei Breathes New Life Into Android Tablets With the MediaPad M5
+> [888] Augmented World Expo 2015: AR gets real
+> [891] Adobe Ink stylus and Slide ruler aim to replace your sketch pad with an iPad (video)
+> [899] Windows 8.1: Whats in it for Desktop applications and developers?
+> [906] Intel may tap RealSense to chase Microsoft and Magic Leap in augmented reality
+> [908] Microsoft Goes All In on AI at Its Annual Developer Day
+> [909] Microsoft reaches out and embraces open-source Eclipse
+> [911] Adobe Experience Designer (XD) aims to make life easier for UI and UX designers
+> [912] 2016 is turning out to be an amazing year for augmented reality
+> [915] AMD doubles down on VR with Sulon Q, LiquidVR
+> [923] Samsung Galaxy Tab S3 review roundup: Wow, thats a lot of money
+> [928] Microsofts Project Spartan: Lean and mean, makes its debut in Windows 10
+> [930] Eight pounds of computing muscle car: Hands on with the HP ZBook 17 G2
+> [931] Nvidia Goes All in for AI With New Volta Architecture
+> [932] Best Laptops for Engineers and Engineering Students: When Work Requires a Real Workstation
+> [933] My first day as a Glasshole: How Google Glass looks from the inside
+> [935] Is Play Googles new secret weapon against Android fragmentation?
+> [937] What Is Mixed Reality, and Can It Take Augmented Reality Mainstream?
+> [938] Google I/O 2013 in pictures: Glass, sensor motes, robot mixologists, and more
+> [940] Google Targets Nvidia With Learning-Capable Cloud TPU
+> [941] Google unveils Daydream to create a VR ecosystem for Android
+> [948] Adobe makes it easier to download old Creative Suite apps, dump your monthly subscription
+> [956] Lenovo ThinkPad X1 Yoga (2nd Gen) Tested: the Ultrabook to Buy if Your Boss Is Paying for It
+> [967] Hands on with Lenovos unique Yoga Book convertible tablet: Is it time for an Android laptop?
+> [969] Best Windows laptops for MacBook Pro refugees
+> [970] Pen computing returns: Revenge of the stylus
+> [975] Windows 10 is a better Windows 7 -- if you can get the upgrade to work
+> [980] Adobe teases new Photoshop Fix, Lightroom upgrades at Max conference
+> [983] Microsoft Surface Pro 4: Upgrades across the board
+> [984] Googles Nexus is dead, long live Pixel
+> [985] Microsoft Halts Rollout of Windows 10 October Update
+> [989] Microsoft updates Windows 10: adds features, addresses clean install license nightmare
+> [1000] Windows Update is a mess: 3 things Microsoft should do to fix it
+> [1003] Hands on with Microsoft Office 2016 for Windows desktop preview
+> [1004] Life after Ballmer: How to fix Microsoft
+> [1005] Intel snaps up Movidius to accelerate its AI and RealSense vision efforts
+> [1014] Apple iPad Pro vs. Microsoft Surface Pro 3: Computing hybrids face off
+> [1018] Hands-on with Windows 8.1: A solid update, but not a game changer
+> [1021] Hands on with the HP ZBook 17 G3 portable workstation
+> [1025] Office 2016 review: Microsoft makes mobile-first, cloud-first a reality
+> [1028] Field Test: Flying a Mavic Pro With Epsons Moverio BT-300FPV AR Glasses
+> [1029] Aria silicon module adds gesture control to Android Wear, Pebble Time
+> [1035] Modular has yet to work for phones -- could it work for watches?
+> [1038] Google looks to patent smart contact lenses for iris fingerprint detection
+> [1039] Giant 84-inch $20K Microsoft Surface Hub to launch in September
+> [1043] Windows 10 Mobile Build 10136: Cortana, Edge, Photos, UI upgrades
+> [1109] Google is launching Sunroof for solar skeptics
+> [1138] Android co-creator to develop real androids for Google
+> [1142] Los Angeles, Chicago could be the next cities to get Google Fiber
+> [1192] DARPAs Atlas gets a huge upgrade, prepares to cut the cord
+> [1201] Google finally proves it wont pursue military contracts, pulls leading robot from DARPA competition
+> [1248] Google accounts for 25% of all internet traffic, is used by 60% of online devices daily
+> [1304] Cortana: Microsoft prays its Frankensteinian mashup of Siri and Google Now can win some fans
+> [1314] Its time to hold manufacturers responsible for Android vulnerabilities
+> [1317] The sale of Boston Dynamics shows Alphabet is waking up to reality
+> [1323] MIT tech turns any surface into a user interface, but its useless without Google Glass
+> [1335] Googles chance to dominate the robot car market is quickly slipping away
+> [1377] TensorFlow could be Googles new, open-source, central nervous system
+> [1403] Did Googles quantum computer just get the biggest processor upgrade in history?
+> [1406] Xi3s Piston Console is an overpriced $1000 living room PC without a gamepad, not a Steam Machine
+> [1412] Samsung reportedly close to releasing Glass competitor -- and Googles involved
+> [1469] With Calico, Google looks to make your lifespan its business
+> [1507] Chrome Remote Desktop makes its way onto Android
+> [1508] The best VR headsets and accessories
+> [1525] Lock screen ads on Windows 10 bring us closer to a nightmarish capitalist dystopia
+> [1569] The 6 best astronomy apps for your phone or tablet
+> [1573] YotaPhone 2 combines an AMOLED and an e-ink display, but at a hefty price
+> [1574] The 6 best science apps for your phone or tablet
+> [1575] Google is recruiting kids with custom versions of search and YouTube
+> [1584] Google, spotting a gap in the VR market, pushes Cardboard on the Play Store
+> [1586] Translate between English and Spanish speech on-the-fly with Skype Translator
+> [1587] This $35 dock lets you use your Android smartphone as a full-fledged desktop
+> [1594] How to Stream on Twitch
+> [1621] Sony is releasing its own AR glasses in spite of Google Glass failure
+> [1629] A galaxy of Gears: Why is Samsung releasing three non-Android smartwatches?
+> [1654] Microsoft Windows 10 briefing live stream and blog: Windows 10 will be a free upgrade
+> [1663] Microsoft tries to thwart Google by investing in Cyanogen
+> [1677] Acer launches the first useful Chromebook with an Intel Core i3 CPU
+> [1693] Nexus 7-2 and Android 4.3: Watch the Google event live (updated live blog)
+> [1701] How to install Windows 10 in a virtual machine
+> [1740] Amazon smartphone event: Fire Phone announced, includes head tracking and object scanning (updated liveblog)
+> [1743] No more codes: How to authenticate your Google sign-in with just a tap
+> [1747] Android L, Android smartwatches, Android Auto, and Android TV announced at Google I/O
+> [1751] Check out Google Earths amazing new satellite imagery from Landsat 8
+> [1755] EU demands Google to respond to antirust complaints by August 17th
+> [1777] Is VR porn worth it? Heres how to find out for yourself
+> [1778] BitTorrent-like P2P software updates could be coming to Windows 10
+> [1779] Google Cardboard: Which VR experiences are worth your time?
+> [1784] Microsoft desperately wants you to move to Windows 10
+> [1796] Now you can create Windows 10 apps for PCs, smartphones, and the Xbox One
+> [1797] Microsoft relents: Office for iPad launches with freemium strategy
+> [1818] Oculus Go Hands On: One Week With Facebooks Standalone VR Headset
+> [1819] Ubuntu Touch will be stable by the end of May
+> [1825] Google I/O keynote: Unlocked Galaxy S4, new music service, and better Maps
+> [1832] Google I/O 2016 live blog: Android N, Daydream VR, and Android Wear 2.0
+> [1837] Why Google Glass Failed, and What to Expect Next
+> [1847] Mozilla partners with Foxconn, Firefox OS tablet rumored for June launch
+> [1850] Google shows off Android M, new Brillo OS, updated Cardboard VR at I/O 2015
+> [1869] Mozilla releases Firefox Developer Edition, with built-in development environment
+> [1900] Google event live blog: Pixel smartphones starting at $649, Daydream View for $79, and more
+> [1911] PSVR will support 360-degree videos with the PS4s Media Player app
+> [1937] Microsoft is implementing Apple-like trackpad gestures in Windows 10
+> [1967] How to upgrade to iOS 9: The complete guide
+> [1970] 6 tips and tricks for iOS 7
+> [1972] iOS 7: How to improve your iPhone 4S and iPhone 5 battery life, and reduce lag
+> [1978] Amazon wants to put 1-Click ordering buttons throughout your home
+> [1990] Google releases Project Ara development kit, modular phones closer than ever
+> [1995] Microsoft Research imbues keyboard with Kinect-like gesture controls
+
+
+Cluster 2 words: humans, researchers, learning, study, intelligence, computer, people, scientists, science, ability, machines, data
+Cluster 2 titles:
+> [1] Baidu AI achieves zero shot learning ability using natural language
+> [3] Genetic unicorns hint at how we can defy our molecular destiny
+> [6] The Elixir of Immortality May Reside Deep Within Our Brains
+> [7] The mutants are here -- and you might be one of them
+> [9] DARPA is teaching artificial intelligence software to play jazz
+> [10] Crowdsourced genetics study ferrets out the hereditary roots of depression
+> [11] 5 technologies to survive the coming climate apocalypse
+> [12] Authorities using cutting-edge voice recognition to profile fugitives
+> [13] Artificial General Intelligence Is Here, and Impala Is Its Name
+> [16] Implantable "memory prosthetic" opens new horizons for cyborg future
+> [18] With Your Brain Waves and Virtual Reality, The Matrix May Be Just Around the Corner
+> [19] What are endocrine disruptors, and how should you protect yourself from them?
+> [20] A new edition of CRISPR promises to make gene therapy ready for human applications
+> [21] Scientists discover natures algorithm for intelligence
+> [22] AlphaZero Is the New Chess Champion, and Harbinger of a Brave New World in AI
+> [23] Evidence of a genetic fountain of youth discovered
+> [24] Robots are developing emotions, thanks to engineers at Honda
+> [25] The bionic pancreas: harbinger of a new era in organ replacement?
+> [26] Robots can now learn household tasks by watching YouTube videos
+> [27] Swarm Intelligence could level the playing field between man and machine
+> [30] Supreme Court ruling suggests neuroscience could upend US legal system
+> [31] Storytelling may be the secret to creating ethical artificial intelligence
+> [33] How the robotic revolution is reshaping political economics
+> [35] Genomics and the rise of precision weight loss
+> [36] Poker-playing AI threatens to unseat a raft of Texas Holdem champions
+> [37] Robots make inroads on understanding visual humor
+> [41] Life after death? It may depend on how much you tweet, blog, post, or email
+> [42] IBMs Project Debater to Set Stage for New Kind of Civil Society
+> [43] Far More People Than Thought Are Carrying Rare Genetic Diseases
+> [46] New Star Trek-style medical device accelerates healing by 30 percent
+> [47] Remote-control device releases drugs right into the brain
+> [48] Scientists discover genetic pathway responsible for aging
+> [49] Reprogramming bacteria to detect cancer
+> [50] Medical researchers grow artificial arm for the first time
+> [51] Mysteries of worm regeneration solved with artificial intelligence
+> [52] Artificial intelligence: coming to a sexbot near you
+> [53] Depressed or Suicidal? AI Algorithm Detects Whats Hidden Beneath the Smile
+> [55] AI Acquires Spatial Reasoning Abilities, in a Victory for Our Machine Overlords
+> [56] Its happening: Pepper robot gains emotional intelligence
+> [57] The second-generation Atlas robot sets a high watermark for humanoid robotics
+> [60] Plastic-eating bacteria set to revolutionize waste disposal
+> [61] Stephen Hawking calls for creation of world government to meet AI challenges
+> [62] DeepMinds Psychlab Heralds Dawn of Artificial General Intelligence
+> [63] Neurons on a chip let drones smell bombs over a kilometer away
+> [64] AI develops its own alien language, the better to mock human underlings
+> [65] Can DNA become the future of digital storage? Microsoft is betting on it
+> [66] Why the Surge in Violence Against Robots Matters
+> [67] Could We Be the Last Generation to Know What the Flu Feels Like?
+> [70] What goes into the first aid kit of the future?
+> [71] What is smart nutrition, and how will it revolutionize food?
+> [72] Microbiome research heralds new era of medical diagnosis
+> [73] Thought vectors could revolutionize artificial intelligence
+> [74] On TotalBiscuit, and Possibly the Rise of an AI Godhead
+> [75] MIT makes breakthrough in morality-proofing artificial intelligence
+> [76] On the campaign trail with Zoltan Istvan and the rise of Democracy 2.0
+> [77] Google and Facebook are battling to create the ultimate virtual assistant
+> [79] Can artificial intelligence solve Americas crisis of democracy?
+> [80] Eating 2.0: How the first FDA-approved, genetically modified animal will revolutionize food
+> [81] Googles DeepMind AI gives robots the ability to dream
+> [83] A memory foam approach to machine learning could reboot artificial intelligence
+> [84] A possible broad spectrum cancer cure is in the offing, but human trials could be up to 4 years away
+> [85] The AI Threat to Democracy
+> [86] In a historic moment for AI, computers gain ability to generalize learning between activities
+> [87] Artificial intelligence is coming to a surveillance camera near you
+> [88] Robots receive a scary-accurate new voice, courtesy of Googles DeepMind
+> [90] Is BabyX the Future of Silicon-Based Life Forms?
+> [91] Temes and the rise of the machines -- is it already too late to save humanity?
+> [92] Volvo wants to replace garbage collectors with robots
+> [93] Is Donald Trump Accelerating Our Robot-Driven Future?
+> [105] Software is Increasingly Complex. That Can Be Dangerous.
+> [126] AI at SXSW 2018: Of Hives, Ethics, Morals, and the Singularity
+> [127] At SXSW 2017, assessing the future of warfare and the US military
+> [211] Cellphone use doesnt increase the number of car accidents, says new Carnegie Mellon study
+> [409] Musk, Hawking, Wozniak: Ban AI warfare, autonomous weapons
+> [419] Bionic Carbon Fiber Arm From Lamborghini? It Could Happen
+> [642] Banning mobile phones in cars saves lives. No it doesnt. Yes it does. No it doesnt.
+> [694] Beginnings of the atomic age: the 70th anniversary of the first nuclear bomb
+> [703] Terahertz breakthrough allows for ultrafast wireless communications
+> [738] Nvidias vision for deep learning AI: Is there anything a computer cant do?
+> [886] Stanford Researchers Plan to Replace Progressive Lenses With Autofocals
+> [951] Amazon deploys 10,000 robot workers, a year after Obamas famous Amazon jobs speech
+> [1054] Gene therapy comes of age: We can now edit entire genomes to cure diseases
+> [1055] How to help paralyzed rats walk, without paralyzing them all over again
+> [1057] IBMs TrueNorth artificial brain to watch, learn from real brains
+> [1059] Gene therapy successfully regenerates an old organ inside a living animal
+> [1060] Scientists grow working human beta cells that can cure diabetes in mice
+> [1065] Were dinosaurs already headed for extinction before the asteroid hit?
+> [1071] Deep-learning neural network creates its own interpretive dance
+> [1077] Looking for true intelligence, study shows that slime molds can learn
+> [1090] The gene therapy revolution is coming. Will the US get left behind?
+> [1094] Researchers claim new evidence unmasks the culprit in the infamous Piltdown Man hoax
+> [1095] In routing around paralysis, researchers may have found an amazing way to treat it
+> [1096] MIT researchers develop robot that can learn human reflexes
+> [1102] How do vaccines work?
+> [1103] DNA sequencing suggests why octopuses are so smart
+> [1110] AI beats doctors at visual diagnosis, observes many times more lung cancer signals
+> [1118] New brain scanning technique can visualize your imagination
+> [1131] Kinect-based robotic mapping puts autonomy back on the menu (with video)
+> [1133] Turing Learning breakthrough: Computers can now learn from pure observation
+> [1136] The more we learn about memory, the weirder it gets
+> [1137] The brains on-off switch for human consciousness is even more intriguing than we thought
+> [1147] What is the antibiotic apocalypse, and can it be avoided?
+> [1153] A taste of the future: Double amputee controls two bionic arms at the same time
+> [1154] OpenWorm brings simulated life one step closer with real digital muscles
+> [1158] DoD: To conquer nations and budgets, combat must go totally autonomous
+> [1174] Time is running out for ethicists to tackle very real robot quandaries
+> [1183] Welcome to the Anthropocene: Geologists say weve entered a brand new epoch
+> [1194] Machine learning offers hope in fight against antibiotic resistance
+> [1209] New research implies potential link between European H1N1 flu vaccine and narcolepsy
+> [1210] Deep genetic sequencing reveals how wooly mammoths adapted to the Arctic
+> [1214] British scientists want to resurrect SETI in the UK
+> [1227] This genetically engineered living robot moves with rat heart cells
+> [1234] Microsoft to democratize machine teaching, hegemonize employment
+> [1236] Gold nanoparticle artificial skin could sense touch, humidity, temperature all at the same time
+> [1238] Gene therapy partially reverses deafness in mice
+> [1247] Machine learning is about to change how corporations are run
+> [1253] Did these researchers just create an autistic computer program?
+> [1254] How MITs new biological computer works, and what it could do in the future
+> [1261] Huge Pew study says human augmentation will be a hard sell, but it probably wont be
+> [1274] Treating patient, not virus, could beat many flu strains at once
+> [1276] Amazing injectable neuro-mesh covers the brain, can control individual neurons
+> [1277] Googles developing its own version of the Laws of Robotics
+> [1292] Pathfinding is the key to putting robot pack mules in the field
+> [1301] Did enlightened US and Soviet scientists help avert nuclear war?
+> [1309] How Googles DeepMind beat the best in Go, and why that matters
+> [1327] The Marine Corps robotic combat teams reach the next phase of testing
+> [1332] Aging, cryonics, and the quest for immortality
+> [1348] What it means to find a "weak spot" in HIV
+> [1349] The synthetic human genome could be around the corner
+> [1354] Robots that sweat, breathe, and get goosebumps to manipulate your emotions
+> [1383] Genetic Sudoku is here, and it vastly speeds genomic analysis
+> [1384] Boat or panda? The US Army is now decoding human thoughts using image analysis
+> [1385] Even after a scorching September, this October wasnt just any hottest month ever
+> [1393] Take it from a Canadian: Science in America is headed for dark, dark days
+> [1411] Nobel Prize in Medicine goes to traditional anti-parasitic discoveries
+> [1415] With the most-edited genomes of all time, Harvards pigs could spark a transplant revolution
+> [1419] Artificial neural networks are changing the world. What are they?
+> [1426] MITs Kinect of the future can track you through walls
+> [1437] Biologists have found a gene that controls brain repair
+> [1442] Alarming levels of industrial pollution particles found in brains of city dwellers
+> [1445] 3D printing proves ancient spear butt is a musical instrument
+> [1454] Confronting societys absurd enthusiasm for DARPAs murdering mad science
+> [1456] Expert panel to Washington: Heres how we cure cancer
+> [1462] Sensing bionic limbs are here -- and they work
+> [1468] Rock Paper Scissors robot wins 100% of the time
+> [1474] Here come the appeals: White House report attacks modern forensic science
+> [1475] Facebook is working on deep learning neural networks to learn even more about your personal life
+> [1479] This AI algorithm can match the average American on real SAT questions
+> [1484] New hydrogel can keep stem cells alive for heart repair
+> [1489] How neuromorphic brain chips will begin the next era in computing
+> [1516] DNA Day: Celebrate the programming language of life with your own DNA test
+> [1517] DNA Day 2015: Understanding ourselves from the inside out
+> [1518] DNA Day 2016: Get tested, learn more about what makes you unique
+> [1526] Stephen Hawkings 5 Greatest Achievements
+> [1535] How I used technology to find my long-lost family
+> [1674] Foxconn is attempting to replace its human workers with thousands of robots
+> [1681] The UK will sequence 100,000 genomes to better understand cancer & other diseases
+> [1687] Chinese researchers use the Kinect to translate sign language to text
+> [1692] Interview: IBMs Jerome Pesenti on Watson Developer Cloud
+> [1806] NOAA scientists are exploring the Mariana Trench, and you can watch it live here
+> [1826] Oculus Rift, three Kinects effectively bring an entire human body into a virtual world
+> [1851] Researchers use Kinect to create precog robots that know when you want a beer
+> [1865] Discussing the personal genomics revolution with Nat Geos Dr. Spencer Wells
+> [1975] Robot butlers with RFID scanners could be used as service animals
+> [1998] Human teleportation would take so long, itd be more like a death ray
+
+
+Cluster 3 words: car, rearing, seat, suv, lane, driver, assistant, warn, wheels, cruise, controlling, inching
+Cluster 3 titles:
+> [147] Car backup cameras are now mandatory: Okay for saving lives, even better for music and navigation
+> [148] Top tech cars at the 2015 New York Auto Show
+> [149] 2018 GMC Terrain Review: An Upscale Compact SUV with Useful (and Pricey) Options
+> [153] 2015 Hyundai Genesis review: The best tech midsize car at the best price, bar none
+> [157] 2015 Honda Fit review: Best subcompact for tech, but not the cheapest
+> [164] 2017 New York auto show crowded with bigger, higher-end SUVs
+> [174] 2015 Hyundai Sonata adds head-up display, Apple CarPlay, adaptive cruise control, luxe features for just $22K
+> [175] New TI DLP could put bigger, brighter head-up displays into every car
+> [176] Top 5 tech cars of the 2014 New York International Auto Show
+> [178] 2018 BMW X3 Review: the Best Compact Crossover Money Can Buy
+> [184] More advanced car tech is here, and buyers are demanding it
+> [187] 2019 Toyota Avalon Review: Breathing Life Into the Sedan Segment
+> [198] 2017 Nissan Armada mega-SUV makes good use of its cameras
+> [199] 2015 Acura TLX review: Tech, refinement puts the new TLX within striking distance of the 3 Series
+> [202] 2014 Nissan Versa review: Top subcompact with unique tech, modest performance
+> [209] 2013 Honda Fit review: A good small car with amazing cup holders but modest tech
+> [213] 2017 Nissan Pathfinder mid-cycle refresh: Does it add enough tech to keep buyers coming?
+> [215] 2018 Nissan Rogue Review: Slick Self-Driving Compact SUV
+> [216] 2018 Chevrolet Equinox Review: a Big Improvement
+> [219] 2019 Chevrolet Silverado Review: 8 Models Ready to Fight Ford, Ram
+> [227] 2019 Mazda MX-5 Miata Review: Fabulous Sports Car, Just Enough Technology
+> [231] 2017 Buick Envision Review: Good SUV, Strong Competition
+> [236] 2015 Kia K900 car review: Beats the Germans on paper if not on the road
+> [240] Review: Volvos 2018 Lineup Brings Style and 400-hp Hybrid Engines
+> [246] 2014 Honda Civic review: An almost-HUD without the $1000 upcharge
+> [254] 2015 Nissan Murano review: Heavy on tech, Nissan blurs the line between mainstream and luxury
+> [256] 2018 Honda Clarity Review: This Midsize Plug-In Hybrid Could Be Your Only Car
+> [261] Hands On With Nissan ProPilot Assist: Self-Driving for Affordable Cars
+> [265] ExtremeTechs Best Cars and Car Tech for 2018
+> [267] 2014 BMW 3 Series review: 50 mpg, and the best small car for tech and driver assistance
+> [269] Review, Lexus RX: More Love from Buyers than the Media
+> [270] ExtremeTechs top 10 tech cars for 2016 and beyond
+> [271] The 10 best tech cars of 2013
+> [273] Best tech cars of 2014
+> [274] 2014 Hyundai Santa Fe review: Driver-friendly tech sets it apart
+> [275] 2016.5 Mazda CX-5 long-term update: rock solid, great people hauler in a compact footprint
+> [276] 2015 Toyota Sienna review: Your best choice in an all-wheel drive minivan
+> [285] Top tech cars of the 2016 Chicago Auto Show
+> [287] 2014 Cadillac CTS review: Top-notch performance, but not ease-of-use
+> [288] 2018 Toyota RAV4 Hybrid Review: Solid, Roomy Performer Gets 30+ MPG
+> [290] Which compact SUV has the best all-wheel-drive system for snow and ice?
+> [293] Lincoln MKC review: Great SUV, but style rules over ergonomics
+> [296] Top tech cars of the Chicago Auto Show: Honda Pilot leads the pack
+> [299] 2017 Hyundai Ioniq first drive review: hybrid, EV, plug-in, no gas-only engines
+> [300] 2019 Volvo XC40 Review: Standout Subcompact Crossover, Heavy on Safety
+> [305] Feds OK Cadillacs high-res LCD rear view mirror
+> [308] 2014 Toyota Highlander review: Great midsize SUV but limited tech under $45K
+> [309] How does lane departure warning work?
+> [312] 2018 Nissan Armada Review: Big, Thirsty, and Sales Are Through the Roof
+> [316] AirTouch: BMWs air kiss for touchscreen gesture controls
+> [320] 2018 Kia Niro Review: A Small Hybrid SUV that Makes Sense
+> [330] 2014 Hyundai Equus review: Like a Lexus LS only cheaper, with unique technology
+> [334] 2017 Mercedes-Benz E-Class extends the boundaries of self-driving at Detroit auto show
+> [342] Top 10 cars of the 2016 Detroit auto show
+> [343] 2015 Honda Fit brings more tech to the subcompact market. Navigation for $60, anyone?
+> [348] Why you should skip the Toyota Prius for the Prius Prime plug-in hybrid
+> [352] 2015 Toyota Camry review: The best Camry ever facing the best competition ever
+> [356] 2018 Toyota Yaris iA Review: An Affordable Car Thats Fun to Drive, Too
+> [358] 5 top tech cars for living through the blizzard
+> [365] 2015 Hyundai Sonata review: Driver assistance makes this the best midsize sedan made today
+> [367] 2014 Mazda3 review: Best tech compact is also the best-handling small car
+> [368] He Replaced His Acuras Windshield. Then the Self-Driving Feature Tugged Him Into Oncoming Traffic.
+> [372] 2019 Lexus RX 350L Review: Wallow in Luxury, Sometimes Around Sharp Corners
+> [374] Relax: self-driving cars wont kill you (and theyre not really self-driving, yet)
+> [376] Garmin launches HUD-based in-car navigation for just $130
+> [391] 5 BMW technologies that have 7 Series competitors playing catch-up
+> [397] 2018 Mazda6 Review: Great Performer, Good Tech, Near-Luxury Cockpit
+> [398] 2016 Hyundai Tucson: Is the latest compact SUV to ship the best SUV?
+> [402] 2014 Mercedes S-Class review: The best, most technologically advanced car you will ever drive
+> [412] 2014 Mitsubishi Outlander review: Proof that good tech doesnt always make for a good car
+> [414] 2018 Hyundai Kona Review: Standout New Subcompact SUV
+> [415] 2016 VWs get Apple CarPlay, Android Auto, driver assistance tech
+> [416] Chevrolet Colorado ZR2 Tested: Formula 1-Style Shocks Make the Difference
+> [420] 2014 Lexus IS hands-on review: $500 adaptive cruise, handling to match the BMW 3 Series
+> [421] Pain in the glass: 5 reasons why the Honda Pilot is great, not perfect
+> [422] Hands on with Cadillacs wide-angle, LCD rear-view mirror
+> [423] What is adaptive cruise control, and how does it work?
+> [425] 2019 Acura RDX Review: Best Compact SUV Yet, Give or Take the Touchpad
+> [427] BMW 7 Series vs. Audi A8 vs. Mercedes-Benz S-Class: Which is the worlds best $100,000 car?
+> [429] First Drive Review: 2018 Volvo XC60 SUV Steers You Away From Trouble
+> [431] 2018 Nissan Kicks Car Review: Affordable Subcompact SUV for 4 Adults
+> [435] Can the 2017 Volvo S90 ride safety and self-driving to serious market share?
+> [439] 2014 Acura MDX: The best premium SUV you can buy
+> [442] 2015 Chrysler 200 review: Finally, somebody killed the CD player
+> [443] 2016 Volvo XC90: How Sweden matched Germany for tech, safety, and performance
+> [462] Subaru Forester review: The best small SUV thanks to EyeSight
+> [465] 2019 Honda Insight Review: A Better-Looking, 50 MPG Civic
+> [472] 2017 Porsche Panamera: sleeker, more LCDs, fewer switches
+> [476] Nissan eliminates blind spots with rear-view mirror that doubles as a wide-angle LCD
+> [481] The 10 best new tech cars to watch in 2015
+> [483] Best high-tech cars of the 2016 Geneva auto show
+> [484] Car review: 2015 Lincoln Navigator SUV wheezes keeping up with Escalade
+> [499] 2017 Mazda CX-5 first drive review: Will more tech, quieter cockpit match Audi, BMW?
+> [501] 2018 Kia Niro Plug-In Review: An Outstanding Subcompact Crossover
+> [506] The safest car seat ever for babies, re-imagined by Volvo
+> [512] 2018 Hyundai Santa Fe Sport Review: Still Among the Best Compact SUVs
+> [514] New York Auto Show: 2017 Acura MDX makes all the driver assists standard
+> [516] Best cars of the 2016 New York Auto Show
+> [520] 2015 Chevrolet Colorado review: Blending tech with smaller size (for a pickup)
+> [521] 2019 GMC Sierra: Carbon Fiber, Shape-Shifting Tailgate, Off-Road Package
+> [532] 2019 Toyota Corolla Hatchback Review: More Tech, More Vroom, Less Room
+> [545] 2017 Nissan Rogue Sport First Drive Review: Can It Dominate the Subcompact SUV Market?
+> [554] Car tech comparison: Driver assists prop up the static compact sedan segment
+> [555] 2018 Honda Odyssey First Drive Review: Tech Makes It the Ultimate People Hauler
+> [566] Can more, better tech vault 2016 Mazda CX-9 ahead of Toyota Highlander and Honda Pilot?
+> [569] Ultimate tailgater: Honda Ridgeline embeds speakers in truck bed
+> [572] 2018 Chevrolet Equinox Diesel SUV Review: 42 MPG Highway Cruiser
+> [575] 2014 Nissan Rogue review: Bigger, plusher, more tech, still under $30,000
+> [583] 2015 BMW X5 SUV review: The best grand touring car with the most technology
+> [584] Golf, anyone? VW unleashes a new-product barrage
+> [586] Toyota Prius Prime Review: The Best Deal in a Toyota Hybrid
+> [594] The Chevrolet Colorado ZR2 employs Formula 1 shock absorber tech
+> [599] The best cars of the 2016 LA Auto Show
+> [601] Lexus NX 300 Review: Why Its a Best-Selling SUV
+> [602] 2015 Honda CR-V review: Tech and safety features of $60,000 luxury car for half the price
+> [608] 2019 Nissan Altima Review: All-Wheel-Drive, ProPilot Assist Revive a Sedan
+> [611] 2018 Honda Accord Review: Way Better, and Honda Even Fixed Display Audio
+> [616] The 2016 Cadillac CT6 makes rear seat entertainment cool again with streaming media, 4G LTE
+> [621] Top tech cars for 2017
+> [627] JD Power: driver assists satisfy more than navigation
+> [631] 2017 Honda CR-V improves comfort, adds volume knob, loses LaneWatch
+> [641] 2014 Chevrolet Impala review: Your GM bailout dollars were very well spent indeed
+> [643] 2018 Audi SQ5 SUV Review: Sporty, Luxurious, and Pricey
+> [650] 2019 Honda Pilot Review: Best Standard Safety Tech, Tows 5,000 Pounds
+> [651] Blind spot detection: Car tech that watches where you cant
+> [658] 2018 Nissan Leaf EV First Drive: 150 Miles, Pro Pilot Assist Highway Driving
+> [662] Mercedes-Benz B-Class review: A great compact crossover that Americans (mostly) cant buy
+> [664] Top 10 Tech Cars to Watch for in 2018
+> [670] 2019 GMC Sierra Review: Innovative Tailgate, Great Head-Up Display
+> [683] Volvos 2018 XC40 Lease Plan Puts You in a New SUV Every Year
+> [686] Mercedes-Benz CLA reviewed: The best 2+2 sports car for $30,000, or $40k with tech
+> [688] Hands Off With Cadillac Super Cruise, the Masterful One-Trick Pony of Self-Driving
+
+
+Cluster 4 words: teslas, car, model, battery, mile, credit, vehicles, electricity, charge, range, driver, x
+Cluster 4 titles:
+> [150] Chevy Bolt equals Tesla Model 3 minus the hype and two-year waitlist?
+> [151] Tesla about to become most valuable US car company
+> [154] Tesla Model 3 buyers: You think youre getting a $7,500 tax credit? Not so fast
+> [166] Tesla Model S refresh: faster charging, more range, LED headlamps, no more grille
+> [168] Tesla Model S is cheaper than a Honda Odyssey minivan in the long-run
+> [171] Tesla plans to sell trucks: big semis, pickups, too
+> [182] Time-shifting energy: Why Tesla is unveiling home and utility batteries
+> [193] Model E: Now Ford plans a 200-mile electric vehicle
+> [206] Check out this scary robotic-arm charger for the Tesla Model S
+> [207] If Tesla Goes Private, It Ties Daimler As Worlds Third-Most-Valuable Carmaker
+> [210] Tesla Adding 1,800 Model 3 Reservations Per Day
+> [228] Tesla Model S gets best-ever crash score, but that might mean tests are outdated
+> [229] Rent at Airbnb, charge your Tesla for free
+> [233] Now you can lease a Tesla Model S for less while waiting for your Model 3
+> [234] Tesla Model S P100D: 315-mile range, quickest production car in the world
+> [238] Tesla readies mass-market Model E while other EV makers tread water
+> [239] The Tesla Model S demolishes Consumer Reports rating system
+> [241] Unanswered Questions, Nosy Private Investors: Musk Decides Tesla Wont Go Private
+> [242] EVs are better and cheaper, so why arent they selling? (Actually, they are)
+> [252] Tesla Model S review: Great sports sedan, fabulous EV, excellent commuter
+> [262] Why do electric cars suck in cold weather?
+> [278] Tesla Model 3 Teardown: Flaws Like a 90s Kia
+> [280] 2.28 seconds: Tesla Model S sets production car record for 0-60 mph
+> [281] SpaceX Put a Car in Space. Why Cant Tesla Put a Model 3 in Your Driveway?
+> [302] Tesla Model 3 on track for September volume production
+> [307] Tesla to Hit 200,000 Sales This Year, Could Limit Model 3 Tax Credits
+> [311] Teslas Gigafactory: The next step in Musks domination of the battery-powered world
+> [332] 200-mile, $30K Chevy Bolt EV and Chevy Volt 2.0 revealed at Detroit auto show
+> [351] Feds: Crashes fell 40 percent when Tesla installed Autopilot
+> [359] Father-daughter duo finish first Tesla Model S coast-to-coast drive in less than a week
+> [361] No need to wait for Tesla: the Chevrolet Bolt is excellent (and already shipping)
+> [363] Tesla records its first Autopilot fatal crash; NHTSA opens investigation
+> [371] Officials: DVD player found in Tesla Autopilot fatal crash
+> [375] Is California sticking it to Tesla for selling so many EVs (and selling the emissions credits)?
+> [387] Tesla: Were not going to disable Autopilot (obviously)
+> [388] Tesla Hits 200,000 Sales: Countdown Starts for Lower Tax Credits, Then None
+> [399] Elon Musk: Software-only enhancements coming to Tesla Autopilot
+> [401] Teslas new master plan: electric trucks, buses, and ride-sharing
+> [428] Another Tesla low-speed crash, another set of theories
+> [437] BMW i8 takes on the Tesla Model S, while stretched Model S encroaches on BMW turf
+> [447] Tesla Overtakes BMW, Now Fourth Most Valuable Automaker
+> [448] 2019 Jaguar I-Pace Review: Tesla-Killer EV Is 2018s Best Car
+> [449] The Tesla Model S floats -- but maybe not forever -- Elon Musk boasts
+> [452] Next Nissan Leaf EV will hit 200-mile range, just like Chevy Bolt, Tesla Model 3
+> [453] Tesla Model S Hypermilers Get 560 Miles on a Single Charge
+> [457] Driver in Fatal Tesla Autopilot Crash Wasnt Paying Attention: Feds
+> [458] Why a Tesla-SolarCity hookup doesnt excite all investors
+> [470] Soon You Wont Get a Tax Credit for Buying a Tesla or GM EV Anymore
+> [486] 2018 Geneva Auto Show Preview: Everybody Takes Aim at Tesla
+> [509] How will Tesla end range anxiety? Just wait
+> [510] Tesla cures range anxiety, self-driving, and New Jersey all in one week
+> [511] Tesla charging stations outnumber gas stations in Manhattan
+> [522] Tesla kills off its 10-kWh Powerwall: The chemistry wasnt there
+> [524] Tesla Model 3 details: first cars will be rear-drive, no speedometer behind steering wheel
+> [527] Best guesses about the new Tesla Model 3 peoples car
+> [530] What the Tesla Powerwall home battery means: inexpensive time-shifting for solar energy
+> [531] Consumer Reports Yanks Tesla Model S Top Rating
+> [533] Dimwit Brit Busted for Auto-Piloting Tesla From the Passenger Seat
+> [534] Teslas Bioweapon Defense mode could add years to your life -- in Beijing
+> [553] Tesla Model S is now the best-selling luxury car - with an asterisk
+> [563] Consumer Reports Gives Tesla Model S Partial Credit for a Partial Fix
+> [564] Elon Musk Gets in Spitting Match With Media. It Wont Be Our Stock That Stumbles.
+> [567] Tesla Factory: Unsafe at Any (Line) Speed?
+> [576] Tipping-Over Point for Tesla: Great Cars, Weak Production Lines
+> [596] Tesla Brings Back the Roadster: 0-60 in 1.9 Seconds, 620-Mile Range
+> [597] Tesla Semi: 500-Mile Range, Cheaper Than Diesel, Quick to Charge
+> [610] Cabin air filters? Tesla Model X has biohazard air filters, says Elon Musk
+> [614] One $75,000 Tesla catches fire, $4 billion in market value goes up in smoke
+> [632] Teslas upgraded Autopilot shipping with version 7 software upgrade
+> [634] Why Some Congressmen Would Scuttle the $7,500 EV Credit
+> [635] Tesla Yanks Full Self-Driving Capability Amid Owner Confusion
+> [636] 2019 Hyundai Kona EV: Tesla-Like Range for About $30,000 After Tax Credits
+> [647] No free lunch: Tesla Model 3 owners will pay for Supercharger access
+> [648] Tesla Model X: software update turns gullwing into guillotine doors?
+> [649] Tesla Model X crossover deliveries start September 29 for insiders
+> [656] Does every fatal Tesla crash merit headlines and investigations?
+> [663] Tesla Upped Range (for a Week) for Hurricane Irma Exodus
+> [669] With Chevrolet Bolt, the new normal for EVs will be 200+ miles range, $30K base price
+> [677] 2019 Audi E-tron: Premium Electric Crossover Goes Head-to-Head With Tesla
+> [687] Tesla Model X: The electric SUV weve all been waiting for
+> [689] Tesla launches stunning Model X SUV, one-year backlog for new orders
+> [761] Teslas Solar Roofs Arent as Cheap as You May Have Read
+> [762] Tesla Dumps Nvidia, Goes It Alone on AI Hardware
+> [781] NextEV aims to leverage Formula E racing tech to take on Tesla
+> [993] Germany tells Tesla to rename its Autopilot feature
+> [995] Tesla declares victory on self-driving car hardware, announces full autonomous capability
+> [1015] Tesla responds to Autopilot issues with major new radar-reliant update
+> [1467] Tesla Motors will put a self-driving car on the road within three years
+
+
+Cluster 5 words: apple, app, updates, x, car, events, device, feature, display, release, phones, years
+Cluster 5 titles:
+> [107] The Apple iPod antitrust lawsuit: Did Apple play fair with its FairPlay DRM?
+> [120] Apple music debuts - Is it the ultimate music service?
+> [194] Apple and BMW: The electric car hookup that almost happened, and could still happen
+> [222] Apple scouting Bay Area site to test self-driving iCar
+> [292] Why Apple should build its own car
+> [373] Apple CarPlay: Is that all there is for now?
+> [377] Apple makes a move for in-car dashboards and infotainment with 36 new patents
+> [426] Hell Freezes Over: Apple Allows Waze, Other Grown-Up Navigation Apps in CarPlay
+> [436] Apple Sees Self-Driving Car as a Massive AI Project
+> [480] Apples CarPlay will put iOS on your dash, already has critical mass of car makers on board
+> [482] Fiat to Apple: Building a car is hard -- let us do it for you
+> [571] Why youll like Apple CarPlay -- and wont love it (and likewise, Android Auto)
+> [667] iPhone X Rollout Means In-Car Wireless Charging Will Be Standard (Eventually)
+> [681] Can Apple pull off an electric car by 2019? (The biggest challenges may not be technical.)
+> [691] Foxconn attempts to diversify, offers $5.3 billion for Sharp
+> [776] Apple wants you to know that it loves AI more than you realize
+> [853] Why Apple will offer a stylus for the iPad Pro
+> [871] Samsung finally overtakes Apple as smartphone profit leader, thanks to Galaxy S4 and maturing Android
+> [1020] How Apples iPhone X TrueDepth Camera Works
+> [1034] First look: OS X 10.11 El Capitan brings more of iOS to the Mac
+> [1189] Could Donald Trump make Apple build its damn computers in the US?
+> [1503] WWDC 2015: Is it finally time for a new Apple TV?
+> [1506] iOS 8: What must-have features does Apple need to add?
+> [1514] Skip the Apple Watch, but keep its features
+> [1522] OS X 10.9 expected in June, brings tabbed Finder and faster Safari
+> [1548] Is Apple finally making a 12.9-inch iPad Pro?
+> [1549] iPhone 6 rumor roundup: Will the next iPhone have a 4.7-inch sapphire display, NFC, or a reversible USB cable?
+> [1557] iPhone 5S A7 SoC rumored to bring 64-bit support, 31% speed boost, but no quad-core
+> [1561] 11 Apple products made possible by strategic acquisitions
+> [1576] Firefox for iOS is coming, but its not what you think
+> [1580] Apple hires more audio experts - is an offline Siri on the way?
+> [1657] The Macintosh is 30 years old today: How Apple changed the desktop computing world
+> [1659] iOS in the Car video reveals drastically improved navigation
+> [1667] Will Apple abandon the iPhone 5S in favor of an iPhone 6 and iPhone Mini?
+> [1672] iWatch trademarks could cause headaches for Apples smartwatch
+> [1675] Heres how to get the iOS 10 and macOS Sierra public betas
+> [1679] Apple reportedly fixes iTunes Match DRM problems with iTunes 12.2.1
+> [1694] How to download Mac OS X 10.10 Yosemite beta for free (updated)
+> [1700] Apple updates MacBook Pro, but wheres the Retina MacBook Air?
+> [1708] OS X Yosemite revealed: Translucent windows, cross-platform Continuity, and HTML 5 DRM come to the Mac
+> [1714] macOS 10.13 High Sierra Focuses on Performance, Launches Fall 2017
+> [1718] WWDC 2013 rumor roundup: New iPads, the iWatch, iRadio, and Haswell MacBooks
+> [1719] Apple WWDC 2015: Updated live blog
+> [1722] Apples WWDC 2013: iOS 7 and OS X 10.9 Mavericks debut (updated live blog)
+> [1723] iOS 7 interface and new features detailed: The biggest update since the first iPhone
+> [1728] Is Apple preparing to release an iPhone phablet?
+> [1737] Leaked pictures of the iPhone 5S logic board hint at minor changes
+> [1765] Apple Watch starts at $349, launches on April 24th -- updated live blog
+> [1769] Apple releases iOS 7.1 with CarPlay, improved UI, and more lifelike Siri
+> [1780] Apple kills the iPad 2, brings iPad 4 back from the dead
+> [1785] Report: New Apple TV, SDK to appear at WWDC
+> [1790] Apple 2016 spring event liveblog: 4-inch iPhone SE, 9.7-inch iPad Pro launch March 31st
+> [1791] Apples iOS 9.3 update tackles screen-related insomnia with Night Shift
+> [1792] Apple wants to bypass net neutrality for its own streaming video service
+> [1848] Staying safe in the outback: Australian iCloud users iPhones are being hijacked
+> [1854] Apple begins giving up on iPod Touch with hobbled $229 16GB model
+> [1894] The best new features in OS X 10.11 El Capitan
+> [1906] iPad 5 and iPad Mini 2 release date, event details, and hardware specs rounded up
+> [1912] Apple confirms October 22 iPad event, expect new MacBooks and Mavericks too
+> [1915] Apples iPad event: The iPad Air 2 and iPad Mini 3 are official (updated live blog)
+> [1922] iOS 8.1 brings Apple Pay and SMS handoff to the iPhone 6 and 6 Plus
+> [1924] iPad 5 will be thinner & lighter, iPad Mini gets Retina display, says rumor mill
+> [1926] Watch Apples iPad 5 and iPad Mini event live stream (updated live blog)
+> [1936] Apple special event live blog: New MacBook Pros, no new MacBook Air
+> [1943] Apple rumor roundup: New iPhones, iPads, and Apple TVs September 9th
+> [1956] Apples iPhone 6 event: Updated live blog and video stream
+> [1957] Apple liveblog: iPad Pro for $799, Apple TV with Siri support, and the iPhone 6s with 3D Touch
+> [1958] Apple event: Watch the iPhone 5S and 5C event live (updated live blog)
+> [1959] The new Apple TV is a big deal, but its not a gaming console
+> [1962] Apple Unveils iPhone X, iPhone 8, Watch Series 3, Apple TV 4K
+> [1968] The 7 best new features of iOS 9
+> [1971] The 5 best features of your new iPhone 6
+> [1980] iOS 7 rockets above 50% adoption in one week, leaves Android, Windows, and OS X in its wake
+> [1986] The new 27-inch iMac is getting a 5120x2800 Retina display, according to new leaks
+> [1996] iOS 7 will reportedly look very different, become flatter like Microsofts Metro UI
+> [1997] Apples next iPad Mini will have a Samsung-made Retina display, says report
+
+
+Cluster 6 words: game, ps4, sony, console, xbox, release, pc, play, frame, hardware, launched, version
+Cluster 6 titles:
+> [29] How a poker-playing AI could help prevent your next bout of the flu
+> [58] Will your next operating system be a game engine?
+> [722] ET Cyber Monday Deals: Lenovo UHD gaming laptop $1200, XPS 8700 with 750Ti $1000, Chromebox $130, more
+> [754] How to buy the right VR headset: Our complete guide
+> [785] With Arcade Saga, HTCs Vive Studios delivers on the promise of room-scale gaming
+> [885] Razer ups the ante in its fight to keep VR open with upgraded HDK2 headset
+> [971] Star Wars: Jedi Challenges Review: Showing the Potential of AR Gaming
+> [1042] Sony unveils gamer-focused Xperia Z4v Android phone at E3 2015
+> [1053] LG competition offers chance to win 34-inch widescreen displays, $10,000 for a dream PC
+> [1369] A look inside Valves first Steam Machine
+> [1417] Valve demos Steam Controller, confirms awfulness of playing shooters with touchpads (video)
+> [1491] PlayStation 4K could offer twice the PS4s GPU horsepower
+> [1492] How controllers shaped games from the ground up
+> [1493] Amazon unveils FireTV: A $99 set-top box that has three times the power of Apple TV
+> [1495] The Final Fantasy XV demo, despite dynamic resolution, cant deliver a solid frame rate
+> [1499] Relying on server connections is ruining video games
+> [1500] Firmware 3.50 lets you stream PS4 games to your PC or Mac, supports 4TB drives [UPDATED]
+> [1502] Titanfall 2 is on the way, but will it outdo its predecessor?
+> [1504] How to back up and upgrade your PS4s hard drive
+> [1505] God of War Might Be the Best-Looking PS4 Game to Date
+> [1509] Ratchet & Clank delivers gorgeous visuals, but only at 30fps
+> [1510] Yakuza 6 Looks Great, Except For All Those Damn Jaggies
+> [1511] Back room dealing and platform exclusivity plague mobile games
+> [1520] Mario Kart 8 Deluxe Is a Phenomenal Performer on the Switch
+> [1523] Nioh on PS4 lets you choose between faster frame rate or higher resolution
+> [1531] Why some video game ports are spotless while others are train wrecks
+> [1532] $500 PS4 and PS Vita bundle would return PlayStation brand to dominance
+> [1533] Amazon might throw its hat in the ring with an Android-based gaming console
+> [1534] No Mans Skys gorgeous procedural worlds will give your PS4 a workout
+> [1538] Sony at Gamescom: PS4s 2.0 update reimagines the concept of online multiplayer
+> [1539] Hellblade is One Patch Away From Greatness on PS4
+> [1545] PlayStation Now is even better than I hoped it would be
+> [1547] Sony launches 12GB PS3 in the US, drops PS Vita to $199
+> [1552] Naughty Dog Delivers the Goods with Uncharted: The Lost Legacy
+> [1553] No Mans Sky on PC vs. PS4 -- which version is worth playing right now?
+> [1554] Googles Twitch acquisition falls through, Amazon steps in (Updated: Confirmed)
+> [1555] Call of Duty: Black Ops III beta pulls off 60fps on the PS4 -- almost
+> [1558] The PS4s halo effect on the PS Vita is kicking into overdrive
+> [1562] Deus Ex: Mankind Divided is marred by long load times on PS4 and Xbox One
+> [1564] Yakuza Kiwami 2s Western Release Updates a PS2-Era Classic for the Modern Age
+> [1565] Final Fantasy XV compromises visual quality differently in every version
+> [1566] The Best PC Gaming Accessories
+> [1570] Just Cause 3 delivers on crazy action, but the frame rate doesnt cut it
+> [1579] The Last Guardian performs poorly on the base PS4
+> [1582] The digital download dream: Physical media is here to stay, thanks to slow internet connections
+> [1585] The 10 Most Technically Impressive Games of 2017
+> [1588] Point and click: An interview with Ron Gilbert, the creator of Monkey Island, on making old games with new tools
+> [1589] The 10 most technically impressive games of 2015
+> [1590] PS4 is about to get streaming media with an official Plex app
+> [1591] The Top 5 Games We Played in 2017
+> [1592] Should you buy a 4K UHD TV for the PS4 Pro?
+> [1595] The state of gaming in 2016: Heres what to expect
+> [1596] What will the PS4 and Xbox One redesigns look like?
+> [1597] How to capture and stream video from a PS4
+> [1599] PlayStation Now game streaming is coming to Samsung smart TVs
+> [1600] What add-ons will we see released for the PS4 and Xbox One?
+> [1602] Shadow of the Colossus PS4 Remake Is Exactly What We Hoped for
+> [1603] 10 games that deserve a PS4 Pro upgrade
+> [1604] Nintendo in 2016: The next-generation NX, mobile games, and investigating VR
+> [1605] Sony teases virtual reality support for first-party PS4 titles
+> [1608] PS4 4.50 update delivers Boost mode on PS4 Pro, adds external drive support
+> [1609] Nioh lets the player decide what matters most: frame rate or fidelity
+> [1611] How to use your PS4 as a media streamer with or without DLNA
+> [1612] The Legend of Zelda: Twilight Princess HD looks stunning in 1080p on the Wii U
+> [1617] Why is Resident Evil 7 so broken on some PS4 Pro hardware? (updated)
+> [1618] The Best Cheap PC Games Under $20
+> [1619] Connection lost: The Cinderella story of online multiplayer
+> [1625] Horizon: Zero Dawn puts the PS4 Pro to work
+> [1627] Far Cry Primal looks great on consoles, but its just another Ubisoft sequel
+> [1628] Can this Arduino box stop online cheating in video games?
+> [1632] Final Fantasy XV is Coming to PC, But Hitting a Locked 60fps is Harder Than Youd Think
+> [1633] How console add-ons have changed the face of gaming
+> [1634] The Best Free PS4 Games of 2018
+> [1636] Can Rogue One and Call of Duty power up the PSVR?
+> [1637] PlayStation Now turns into Netflix for games with all-you-can-play subscription
+> [1638] Now that the PS4 has been hacked to run Linux, SteamOS is an inevitability
+> [1639] This Mad Catz $300 morphing game controller is absolutely insane
+> [1641] The Best Free Xbox One Games of 2018
+> [1642] PS4 and Xbox One: It wont be long before graphics actually look next-gen
+> [1643] 8 ways to improve your gaming experience
+> [1644] The 10 most technically impressive games of 2016
+> [1645] Why is the PS4 being delayed in China?
+> [1648] The rise of second screen gaming: Where will the PS4 and Xbox One take us?
+> [1650] Gravity Rush 2 is stunning in 4K
+> [1653] Download corrupted: The incredible history of downloadable console games
+> [1655] Dan Teasdale talks PlayStation VR, game development, and 100-foot robots
+> [1662] Samantha Kalman on indie VR game development: rethinking fundamentals
+> [1665] The 10 best PS4 Pro game updates
+> [1668] Fee to pay: UK law comes down on EAs Dungeon Keeper cash shop
+> [1669] The Crew 2s Virtual Americana Leaves Us Bored On the 4th of July
+> [1670] Hands on with PlayStation VR: space dogfighting and undersea adventures
+> [1673] Battlefield 1s alpha shows that 4K is within reach for high-end gaming PCs
+> [1676] Why do some games get the downgrade treatment?
+> [1678] PS4 and Xbox One controllers: How we can fix controller stagnation
+> [1680] How to play Japanese games on your PS4
+> [1682] Xbox One and PS4 are filled with missed opportunities
+> [1689] Octopath Traveler is the Exclusive RPG the Switch Needed in 2018
+> [1698] The Best PS4 Pro Games Under $20 in 2018
+> [1699] New PS4 details: 2,000 friend slots, cross-game chat is free for all, DualShock 3 not compatible
+> [1702] PlayStation Now public beta launches today on PS4
+> [1704] No Mans Sky Next Performance Disappoints
+> [1705] What to expect from E3 2016
+> [1709] Nintendo may use Android for its next console - so what? [UPDATED]
+> [1710] Optimizations in The Witcher 3s DLC makes the game look better (updated)
+> [1711] GOG offers DRM-free versions of select Steam games at no cost
+> [1712] Sony plans 1TB PS4 launch -- will the company drop the price this year?
+> [1717] Bethesdas stealth fix drastically improves the performance of Fallout 4s DLC on PS4
+> [1720] Verdict: Mirrors Edge Catalyst falls short in performance
+> [1721] Sony at E3: Watch the PlayStation event live stream (updated live blog)
+> [1724] Can PlayStation Now deliver on the promise of game streaming from the cloud?
+> [1727] The World Is a Vampyr: The Reanimation of the Mid-Tier Game
+> [1731] E3 2017 Proves Sony Hasnt Forgotten Beloved Franchises, PSVR
+> [1733] The Best Games of E3 2018
+> [1734] Could a PS4 and PlayStation TV bundle take out Xbox One and Apple TV at the same time?
+> [1735] The 10 best games of E3 2016
+> [1736] The Best Games of E3 2017
+> [1738] The 10 best games of E3 2015
+> [1739] Sony issues correction: PS4 will not support analog output [Updated]
+> [1741] Game sharing discovered in Steam beta update, Valve takes cue from Xbox One
+> [1742] PS4 release date leaks, a new PS3 revision, and no price cuts in sight
+> [1744] The new Zelda is ambitious, but the Wii U is having a hard time keeping up
+> [1746] Could sanctioned game mods on PS4 and Xbox stave off Valves attack on consoles?
+> [1748] BioWare is reinventing save games for the Xbox One and PS4
+> [1750] Will 60fps YouTube videos force game developers to prioritize frame rate?
+> [1752] Batman: Arkham Knight is a mess on PC, surprisingly solid on consoles [Updated]
+> [1754] With Mario Kart, Zelda, and cross-buy games, Nintendo could turn the Wii U around
+> [1756] A slim PS4 might show up at the Tokyo Game Show
+> [1757] Are Valve and HTCs VR goggles really the future of PC gaming?
+> [1762] Breath of the Wild is an amazing Zelda title, but performance falls short
+> [1764] The Legend of Zelda: Breath of the Wild really struggles on the Wii U [UPDATE]
+> [1767] This Web-based emulator lets you play NES games in 3D -- sort of
+> [1768] PS4 4.50 update is out, and the PS4 Pro really benefits from Boost Mode
+> [1770] Why the PC version of Titanfall is 48GB
+> [1772] Sonys firmware 2.50 will finally bring suspend and resume to the PS4
+> [1775] Oculus Rift vs. HTC Vive vs. PlayStation VR: Battle of the high-end headsets
+> [1776] Can the $399 PlayStation VR popularize virtual reality?
+> [1781] Report: Sony is developing an updated 4K-capable PS4.5
+> [1782] Keep Talking and Nobody Explodes: Overcoming multiplayer VR hurdles and defusing virtual bombs
+> [1783] Sony announces Project Morpheus VR helmet for the PS4
+> [1788] PS4 firmware updates finally quell tyranny of the DualShock 4 light bar, disable HDCP
+> [1789] Sonys Project Morpheus prototype is a hit, bodes well for the future of virtual reality
+> [1793] How storage media decides the fate of console games
+> [1794] Mass Effect: Andromeda looks significantly better on PC
+> [1795] PS4 may soon play your favorite PS1 and PS2 games in native 1080p
+> [1798] Hands on: PS4 firmware 2.50 with suspend and resume, 60fps Remote Play
+> [1799] Far Cry 5 Lovingly Renders the Countryside of Montana, But Not Everyone is Blissed Out
+> [1807] Mirrors Edge Catalyst beta has a bad stuttering issue
+> [1809] Preys Demo Is Well-Optimized on PS4 and Xbox One
+> [1813] These Unreal Engine 4 tech demos will make your jaw drop
+> [1814] Six months in, is the Wii U dead in the water?
+> [1815] Nintendo to release five hit smartphone games by 2017
+> [1817] Uncharted 4 is the showpiece the PS4 deserves (updated)
+> [1821] Overwatch beta runs well on consoles and PC alike
+> [1828] Twitch shortens streaming delay by a third
+> [1830] Microsoft shuts down Project Spark in continued effort to clean house
+> [1840] Homefront: The Revolution struggles on consoles and low-end gaming PCs
+> [1843] The reviews are in: Blizzards Overwatch is worth every penny
+> [1844] Playing the sales game: Do game releases actually increase console sales?
+> [1845] Shoulder buttons of giants: The evolution of controllers leading up to PS4 and Xbox One
+> [1849] How to use a PS4 DualShock 4 to play PC games
+> [1853] Detroit: Become Human Delivers Some of the Best Digital Performances to Date
+> [1856] Batman: Arkham Knight is still broken on PC, Warner Bros. offers refunds
+> [1860] Which games will take advantage of the PS4 Pro?
+> [1861] PS4 firmware 2.01 released, should fix Rest Mode and other bugs (updated)
+> [1863] Call of Duty: Advanced Warfare disables Share Play on the PS4
+> [1864] PS4 teardown reveals beautiful design, integrated PSU, a case modders dream
+> [1871] Assassins Creed Unity runs poorly and is stuffed full of bugs, on consoles and PC
+> [1872] Rise of the Tomb Raider is outstanding, but its hamstrung by the Xbox One
+> [1873] PS4 may support DLNA and MP3 after launch, and the future of the PS3
+> [1874] PS4 launch: Whats broken and when its getting fixed
+> [1876] Why PS4s Assassins Creed IV needs a patch to run at 1080p
+> [1877] PS4 reviews are in: Why do most launch games suck?
+> [1878] Hands on with PS4 Pro: How do 1080p displays and PSVR benefit?
+> [1879] I went all-digital with the PS4 and loved it - RIP physical media
+> [1880] PS4: Install an SSD or HHD to speed up game loading time by 20 seconds or more
+> [1882] ET Black Friday Deals: Save up to 50% off Top Unity3D Assets
+> [1883] PS4 Remote Play works like a charm over LTE, but not with slower connections
+> [1884] Alienwares knockoff Steam Machine finally ships, but its not the gaming PC youre looking for
+> [1891] Remembering the Sega Dreamcast: 15 years of modern gaming
+> [1898] PS4s second screen functionality trounces Xbox Ones SmartGlass
+> [1901] How does PlayStation Now on the PS3 compare to the PS4?
+> [1903] Valves Steam Box isnt a PS4 or Xbox One killer
+> [1907] Gears of War 4 runs beautifully on Xbox One, even better on PC
+> [1908] The 30 Best Free PC Games of 2018
+> [1910] The Star Wars Battlefront beta only runs at 720p on Xbox One, 900p on PS4
+> [1913] Turn your PS4 into a laptop for $1100
+> [1918] PS4 system software update 2.0 brings music playback and better voice commands
+> [1921] PSVR hands on: a week with Sonys virtual reality headset
+> [1923] The Best PS4 and PS4 Pro Accessories
+> [1928] The PS4 DualShock 4 controller almost looked like the Xbox 360 gamepad, says Sony
+> [1931] Black Ops 4 Will Make Your Base Consoles Sweat
+> [1932] PS4 will ship without many core features, requires 300MB day-one patch
+> [1933] Even at 900p, Assassins Creed Syndicate cant stay locked at 30fps
+> [1934] Halo 5: Guardians sacrifices graphical fidelity for 60fps gameplay
+> [1938] Batman: Arkham Knight returns to the PC, Warner Bros. offers free stuff as an apology
+> [1939] Nintendo announces its first smartphone game, but is it too little too late?
+> [1941] Red Dead Redemption 2 Is Beautiful on Xbox One X, Deserves PC Release
+> [1944] The Best Free VR Games and Apps
+> [1945] The stillborn revolution: Ouya fails to sell, developer seeks buyout
+> [1947] Play PS4 games on your phone, thanks to Sonys Xperia Z3
+> [1948] New PS4 firmware 3.0 update will make cloud saves suck less
+> [1952] PlayStation Meeting liveblog: PS4 Pro for $399, PS4 Slim for $299
+> [1953] ET Deals: Get Overwatch for $12 When You Subscribe to Humble Monthly
+> [1954] Sony says the PS4 Pro is 4K-ready, but will it actually render games at 2160p?
+> [1960] Performance Analysis: Spider-Man Kills It on PS4 Pro
+> [1969] Shadow of the Tomb Raider Is a Looker, but Gameplay Is Divisive
+> [1973] Hands on: Forza Horizon 3 is excellent, but lacks polish on the Xbox One
+> [1974] Why is Konami making gambling machines and mobile games instead of AAA games?
+> [1981] Forza Horizon 3 truly shines on Windows 10 -- if youre on high-end hardware
+> [1982] Unreal Engine 4 Aids Life Is Strange 2s Moody Atmosphere
+> [1984] 10 fixes the Sony PlayStation 4 (PS4) desperately needs
+> [1987] Early impressions of Civilization VI are a mixed bag
+> [1993] PlayStation Now compatible TVs revealed, launch games leaked
+
+
+Cluster 7 words: ford, car, vehicles, driver, automakers, auto, connected, engine, say, drive, park, offered
+Cluster 7 titles:
+> [162] Fords next decade: Silicon Valley-style campus for 30,000 will rise in Michigan
+> [223] Ford: Well sell fully autonomous cars by 2021 with no steering wheels
+> [230] 2014 Ford Fusion hybrid review: Best midsize hybrid in a crowded field
+> [248] Ford retrofits Siri Eyes-Free (not CarPlay) to 5 million cars
+> [253] Ford could challenge Uber, Lyft with Dynamic Shuttle service
+> [255] Ford Sync 3 simplifies the interface (again), ditches Microsoft for Blackberrys QNX OS
+> [260] On the (very bumpy) road with Fords robotic almost-self-driving test track truck
+> [279] Ford unveils tech-heavy 2018 Ford Expedition: a rolling entertainment palace
+> [286] Whats behind Fords $1 billion on artificial intelligence: self-driving excellence
+> [295] Ford admits touchscreen defeat, puts the buttons and knobs back into Ford Sync
+> [303] Why Microsoft lost Ford Sync: Too costly, too slow, and too hard to use
+> [317] Is Ford building Sync AppLink into a serious Apple CarPlay and Android Auto competitor?
+> [319] Ford, Toyota to challenge Apple CarPlay, Android Auto
+> [335] FordPass app improves the owner experience -- but ownership is not required
+> [338] 2014 Ford Fiesta ST review: Subcompact thats a hot-rod at heart with tech to spare
+> [339] Aluminum-body 2015 Ford F-150 pickup sheds 700 pounds, adds a ton of driver assist technologies
+> [341] Acura NSX, Ford GT, and the other top tech cars of the 2015 Detroit auto show
+> [344] The 2014 Detroit Auto Shows top tech cars
+> [345] At Detroit Auto Show, 3 New Pickups Could Hit 30 MPG
+> [349] 2018 Mustang: digital dash, 10-speed automatic, turbo four kills the V6
+> [353] Self-driving Ford could see around the truck ahead of you, thanks to MIT and Stanford
+> [392] Ford Sync 3: better and faster, if not a standout
+> [394] Ford hybrids need an update (dont say recall) to improve mpg
+> [400] Ford GPS aims headlamps around dark corners
+> [406] Ford goes 100-percent Sync 3 in 2017 cars, trucks, SUVs
+> [410] Why Ford Moved Self-Driving Operations to a New, Off-Site Business
+> [417] Ford Sync 3 launches first on Ford Escape, Fiesta this summer
+> [424] Toyota adopts Ford AppLink to keep Apple CarPlay, Android Auto honest
+> [445] Will Ford admit defeat and add more buttons to Sync and MyFord Touch?
+> [451] Fords Factory Floor Exoskeleton Vest: Power Without Pain
+> [459] How Ford will sell more cars by pushing electric bicycles, smart watches and ride-sharing
+> [460] Fit-to-drive-Bit? Ford app tells you how well you drive
+> [461] Inside Fords virtual reality prototyping lab: Why make full-size clay cars when VR will do?
+> [463] The internet of 3500-pound things: Big data arrives in your car
+> [464] 10 hot technologies out of Fords Silicon Valley skunkworks
+> [474] GM cuts onboard 4G LTE pricing as usage goes up
+> [488] Ford tests 3D printing of big car parts
+> [495] 2015 Ford Edge review: Dazzling tech and class-above luxury
+> [504] Ford Outlines the Future: More Safety Standard, More Telematics, More Crossovers
+> [508] Ford to add OnStar-like telematics in wake of Microsoft Azure cloud deal
+> [517] Ford Intelligent Speed Limiter reads signs, sets cruise control -- but only 5 mph over
+> [540] Ford switches to better, costlier SCR emissions treatment for its next diesel
+> [544] Ford builds a portable wind tunnel -- just not small enough for DIYers (yet)
+> [548] Did Ford Pull the Plug Too Soon on Its Sedan Lineup?
+> [562] Fords CEO, Now Gone, Didnt Push Fast Enough Into the Future
+> [595] Ford caves, offers OnStar-like embedded cellular Sync Connect in 2017 Escape
+> [622] Fords amazing new tech: Park your car from outside the car
+> [626] 2019 Ford Edge Review: Self-Driving, Hot Rod Engine, Better Looks
+> [629] Economical Turbo Four in Chevrolet Silverado Pickup Gets Just 21 MPG
+> [637] Ford and Honda stop collisions before they happen with pedestrian detection
+
+
+Cluster 8 words: cameras, image, video, sensors, capture, feature, phones, photo, smartphone, version, tool, lighting
+Cluster 8 titles:
+> [8] When you look at the camera and it looks back: How artificial intelligence is revolutionizing home security
+> [59] Sony Xperia Eye could thrust AI-based lifelogging into the limelight
+> [237] Canon 5D Mark IV shoots 4K video, 30.4-megapixel stills, has built-in Wi-Fi and GPS
+> [364] Canon 70D with dual-pixel CMOS AF: The first DSLR that can autofocus videos
+> [644] Best New Products from PhotoPlus Expo 2017
+> [653] Canon Targets Nikon, Sony With $2,300 Mirrorless Full-Frame EOS R
+> [671] Canon 7D Mk II: A best-in-class DSLR that still misses features every smartphone has
+> [706] GoPro plans to release its own Karma drone in 2016
+> [730] Aukey Cortex 4K VR headset review: A lot of pixels at a low price
+> [731] In Lightroom and Photoshop, Adobe Puts Profiles and Presets Front and Center
+> [734] Adobe teases AI-based tools to make great portrait photos out of lousy ones
+> [736] Adobe Lightroom for the iPad is finally here, and its superb: Hands on review
+> [737] Fire up your GPU: VR takes hold at Nvidias GTC 2016
+> [740] Best drone picks for every budget
+> [742] Lytros new Cinema camera will allow 3D movies to be shot using light fields
+> [743] Nikon unveils D7500 midrange DSLR with many of the D500s features
+> [746] Apples LinX purchase: DSLR-killer or just long-term planning?
+> [747] Light: Startup believes it can fit a DSLR into your phone, at a price
+> [748] Sonys new sensor is designed to help self-driving cars see better
+> [749] Facebook invents awesome Surround 360 VR camera, gives the design away
+> [752] Leia aims to bring interactive Star Wars holographic displays to your phone
+> [753] Adobe soups up Creative Cloud with Lightroom 6: facial recognition, HDR, improved editing tools
+> [756] How Light plans to put a DSLR in your pocket
+> [757] Wildlife Photographer of the Years Stuffed Animal Image Disqualified
+> [758] Googles Moto X latest to jump on low-light bandwagon with RGBC "Clear Pixel" camera
+> [759] Movidius, the chip maker behind Googles Tango, wants to be the king of computational photography
+> [763] How to get started with DIY home surveillance systems
+> [766] Nikon D7500 DSLR Field-Tested: Everything You Want, for Less Money
+> [769] Stanford Researchers Build AI Directly Into Camera Optics
+> [772] Nikon Finally Enters Full-Frame Mirrorless Market With Z6 and Z7
+> [773] DJI Launches Drool-Worthy Mavic 2 Pro, Zoom Drones
+> [778] DJI Osmo Mobile 2 Gimbal: Making Your Smartphone Video Better
+> [779] Adobe upgrades Photoshop, Premiere Pro, adds stunning Fuse CC 3D character-creation tool
+> [782] How to set up DIY video monitoring for home or office -- subscription free
+> [783] DIY guide: How to add new tech to old cars
+> [784] Why movies like The Hobbit are moving from 24 to 48 fps
+> [787] Affinity Photo comes to Windows: Nearly all of Photoshop for $40!
+> [788] Choosing a security camera: A roundup of options
+> [791] DxOMark Shows How Far Phone Cameras Have Come
+> [793] Google unveils super-resolution zoom-and-enhance tech
+> [794] Sonys new DRAM-enhanced image sensor is a game changer for smartphone photography
+> [797] Sochi Olympics 2014: The tech behind the worlds biggest photo shoot
+> [799] Invisage unveils QuantumFilm IR imager that works in darkness and in light
+> [802] Adobe brings Raw photo workflow to Android with Lightroom 2.0
+> [804] Nikons new DL family of high-end point-and-shoot cameras further raises the performance bar
+> [805] Nikon D4S: Still 16.2MP, but now at 11 fps with night vision-like 409,600 ISO
+> [808] How to Create Your Own Private Photo Sharing Cloud
+> [815] CES 2014: Parrot Jumping Sumo and MiniDrone set to invade your home this year
+> [818] CES 2014: Sonys superb new 4K UHD TVs prove theres more to image quality than just resolution
+> [819] HEXO+ goes Hollywood with prototype follow-me drones
+> [821] Hands on with the Nikon D500: The D400 youve been waiting for, except better
+> [823] Nikon D3300: Hands-on with Nikons DSLR answer to the growing mirrorless trend
+> [824] Hands on with the HEXO+ flying camera drone
+> [831] A look back at CES 2016 in photos
+> [835] Kodak might give back my Kodachrome, or at least let me buy more
+> [836] CES 2017 kicked off the year 360-degree and VR capture could hit the mass market
+> [841] Beyond the selfie: Advanced accessories to improve your smartphone photography in 2016
+> [844] Adobe Lightroom now available for Android, just as good as iOS version
+> [845] Photoshop CC adds 3D printing support, plus Perspective Warp and other features
+> [846] VR180: Can It Jumpstart VR, or Is It Just the Next 3D TV?
+> [847] Lidar: A Gold Rush Is On to Help Your Car See Better
+> [851] Hasselblad Soups Up Its 100MP H6D With 400MP Multi-Shot Version
+> [857] DJIs New Mavic Air Combines the Best of the Spark, Mavic Pro
+> [868] Hands On With the Parrot Anafi Portable Drone: Can It Unseat DJIs Mavic?
+> [869] Nikon Rumored To Be Launching Two Full-Frame Mirrorless Models
+> [872] Sony Wants Your Next Smartphone to Have a 48MP Camera
+> [881] Hands on with Lenovos new snap-together Moto Z flagship phone
+> [884] Organic photo sensor dumps silicon, promises to shatter CMOS imaging limits
+> [890] Adobe Creative Cloud 2015: New stock service, Photoshop updates
+> [894] Adobe adds more magic to Photoshop, Creative Cloud apps
+> [895] Stereolabs brings position tracking to mobile VR using its Zed camera pair
+> [898] Adobes New Dual-Stream Neural Network Can Detect Photo Fraud
+> [900] Jaunt opens its industry-leading VR capture tech to other studios
+> [902] How to Create and Share 360-Degree Panoramas With Your Drone
+> [903] DJI Phantom 4: Real computer vision comes to a consumer drone
+> [904] Mobile Photography Workflow: Pushing the Envelope With Lightroom and Pixel
+> [905] How to Create Amazing Videos With Your Drone
+> [907] 3D printing in color with Photoshop CC, hands-on
+> [914] Can the VR craze and new display technologies save 3D TV?
+> [917] Best Camera Apps for Android of 2018
+> [919] Best Android Phones for Photographers in 2018
+> [921] Google May Buy Lytro in a Fire Sale to Boost Its VR Plans
+> [925] Cinema giant Arri aims its cameras at surgical microscopes
+> [926] Huawei P20 Pro Triple Camera Smashes DxOMark High-Score Record
+> [929] MIT speeds up its futuristic lensless single-pixel camera by 50 times
+> [934] Izitru lets you check whether photos are real or fake, for free
+> [939] The technology behind Googles new underwater Street View
+> [942] Adobe Spark will unleash your inner graphic designer
+> [943] Hands On With the DJI Mavic Pro: A Serious Drone That Fits in Your Daypack
+> [946] DJI Says its New Spark Is the Flying Camera for Everyone
+> [949] We Put Phone Cameras to the Ultimate Test: An African Safari
+> [953] Nikon Df: Retro DSLR packed with full-frame performance
+> [954] Lytros Immerge aims to make virtual reality video more realistic
+> [955] How to Store and Backup Photos, for Those Who Care About Their Images
+> [957] Adobe uses Max to unveil 2017 offerings, new cloud-native initiative
+> [959] Best Laptops for Photo Editing
+> [960] The Best Outdoor Security Cameras
+> [964] DJI Inspire 1: An amazing 4K-capable drone for videographers and photographers
+> [968] Stereolabs Linq aims to be the worlds first true mixed-reality headset
+> [972] Powerup FPV: See yourself fly in your own paper-airplane drone
+> [976] Hands on with the AI-boosted Adobe Photoshop and Premiere Elements 15
+> [977] Hands On With Adobe Photoshop and Premiere Elements 2018
+> [978] Hands On With New Adobe Photoshop and Premiere Elements 2019
+> [982] LG V40 ThinQ: How 5 Cameras Push the Bounds of Phone Photography
+> [986] Lights L16 is a DSLR-quality camera that fits in your pocket -- for a stiff price
+> [987] The Pixel 3 Cameras Are a Showcase for Googles AI
+> [991] Photoshop Elements 12 review: A cheap, better alternative for most photographers
+> [992] Adobe Unleashes Avalanche of Creative Cloud Tools at MAX 2018
+> [994] Hands On With Adobe Lightroom CC, New Photoshop
+> [996] How Google Glass will usher in an era of superhuman vision
+> [997] GIMP review: This free image editor is no longer a crippled alternative to Photoshop
+> [999] How Googles Night Sight Works, and Why Its So Good
+> [1001] Sony QX lens-style cameras for your smartphone: Is this the future of point-and-shoots?
+> [1006] Quantum camera can take photos in almost complete darkness, needs less than one photon per pixel
+> [1008] Apple iPhone 7 Pluss new dual camera: Computational imaging finally goes mainstream
+> [1009] Canons 250-megapixel sensor can read the side of a plane from 11 miles away
+> [1016] DxOMark Mobile Adds Bokeh, Zoom, Motion Camera Tests
+> [1017] Adobe Piles on New Audio, Video Features in Creative Cloud
+> [1022] Hands On With CyberLink Director Suite 365
+> [1023] Nikon D850 Field-Tested: Possibly the Best DSLR Ever
+> [1024] Will Phones Soon Finish Off the Camera Market?
+> [1026] Adobe Photoshop and Premiere Elements 14 review: Inexpensive, top-notch photo and video editing
+> [1030] Asus ZenFone 2 vs. OnePlus One: Battle of the unlocked smartphones
+> [1037] 8K video arrives on YouTube -- good luck trying to play it
+> [1046] Could the DxO ONE turn your iPhone into a pocket DSLR?
+> [1050] LGs Perfect Black Technology is Perfect for 4K [SPONSORED]
+> [1051] Its National Camera Day: Here Are Our Staffs Personal Favorites
+> [1100] How researchers captured the first images of atoms making and breaking molecular bonds
+> [1157] Avegant Glyph: A 3D VR headset that beams the display directly onto your retina
+> [1220] Throwable panoramic camera ball could bring slow-mo video fly-bys to the masses
+> [1512] Oculus Rifts time warping feature will make VR easier on your stomach
+> [1546] Flexible camera array could lead towards panoramic photos that dont suck
+> [1979] Should you upgrade to the iPhone 6s? Heres how to decide
+> [1992] Amazons first smartphone leaked, has 3D display powered by multiple cameras
+
+
+Cluster 9 words: security, data, internet, company, needs, technology, device, governing, price, service, computer, information
+Cluster 9 titles:
+> [2] How smart cities will protect us from natural disasters in the future
+> [5] How DARPA is training machines to protect its digital assets with the Cyber Grand Challenge
+> [17] MouthLabs tricorder-style device could analyze your vital signs in real time
+> [28] Stop to smell the virtual roses: why scent could be the next frontier for VR
+> [32] How Amazon Could Succeed in Overturning the Old Healthcare Model
+> [34] Haptic bodysuits and the strange new landscape of immersive VR
+> [38] How to Become Less Addicted to Your Phone, Which Is Now Smarter Than You
+> [39] Genetic engineering could thwart the Zika virus, among other mosquito-borne diseases
+> [44] Artificial intelligence goes head to head against an unlikely target -- your family doctor
+> [69] Hearables could be the next wearables -- and with good reason
+> [78] LED implants: A new device for the biohacker cyborg arsenal
+> [94] Researchers at ASU battling ISIS and other extremist movements online
+> [98] Unmanned drones, robots, and missiles could win the next war: DARPA
+> [99] Expanding the frontiers of computational thinking with Wolfram Language
+> [101] How smart cities (will) work
+> [103] Hacking US infrastructure: How vulnerable is it?
+> [104] Technology Enables Fake News. Can It Help Stop It, Too?
+> [106] Intel unveils its Internet of Things strategy, prepares to go head-to-head with Qualcomm
+> [109] No, but seriously: Should you buy a 4K TV?
+> [110] CES 2017 audio roundup: planar magnetic headphones, custom DACs, and thundering bass
+> [112] Forget vinyl -- better digital sound is on the way
+> [113] Can Sony recapture the magic of the original Walkman?
+> [115] At CES 2018, Digital Health Took Center Stage
+> [122] How IT Can Save Our Healthcare System
+> [128] Healthcare at SXSW 2018: Tomorrows Promise, Todays Problems
+> [129] A Blockchain-Based Approach to Smart Cities
+> [130] Notes from SXSW Interactive: Moores Law, software, and disruption
+> [132] SXSW 2017: A look at the complex cyber security chess game
+> [134] Weapons of World War III: How new technology will affect the next great conflict
+> [135] Do-it-yourself healthcare is closer than you think
+> [136] The cybersecurity threat - are we protected yet?
+> [137] Health care data is key to better patient outcomes
+> [138] Do patents still work in todays fast-moving tech landscape?
+> [142] High-resolution audio: Is 2015 the year it takes off?
+> [143] Post-Equifax Breach, Its Time for a Digital Universal ID
+> [146] What Happened to the Tech Job Boom?
+> [204] Lexus maglev hoverboard: 20 minutes of magic in a skatepark
+> [258] WeBoost Drive Sleek Review: Cellular Signal Booster Helps in Remote Areas
+> [268] Walking again: Hyundais exoskeleton helps paraplegics move on their own
+> [306] Why Mercedes backed down on factory robots: People adapt better (to some tasks)
+> [327] The $800 laundry-folding robot for those who dont have a housekeeper
+> [384] GM-NASA RoboGlove amplifies grip of astronauts, factory workers
+> [418] JetBlue, Delta Biometric Scanners May Replace Boarding Passes
+> [444] What Its Like to Fly in HondaJet, the Amazingly Cheap ($5 Million) Business Jet
+> [456] WannaCry Virus Shuts Down Honda Factory for a Day
+> [494] Tivoli Audio updates Model One radio with Wi-Fi, doubles the price
+> [505] Audis Traffic Light Countdown App Now Works in Washington DC
+> [518] This is my rig: Bill Howards million-photo $10,000 digital photography workstation
+> [556] Back to the future: Porsches navigation radio for classic cars
+> [558] GM sets 4G LTE pricing for its cars: Different from Audi, still not cheap
+> [573] Supreme Court to Lexmark: You Cant Lock Ink Cartridges to Stop Refills
+> [585] Faraday No Future: Things Looking Dim for EV Startup
+> [630] Panasonic quits plasma TVs: The latest victim of LCDs rise to display supremacy
+> [697] Fake mass-snooping cell phone towers uncovered in the UK
+> [708] Trumps call to shutter Internet backed by prominent legal scholar
+> [716] US presses on with tactical nukes despite outcry
+> [719] Airbus, ESA set to launch laser-based comms satellite system
+> [720] HP Pavilion 23xi IPS LED-backlit monitor for $135
+> [721] ET deals: Dell Inspiron 15 for $230, 28-inch UltraHD monitor for $450, more
+> [723] ET SSD deals: Crucial M550 128GB $50, Samsung 850 Evo 240GB $133, OCZ Arc 100 480GB $190
+> [726] Nvidia GTC: The GPU has come of age for general-purpose computing
+> [727] IBMs resistive computing could massively accelerate AI -- and get us closer to Asimovs Positronic Brain
+> [728] Map-D: MIT spinout takes big data real-time with GPUs
+> [735] VR and Now AR Medical Solutions Are Gaining Ground in Hospitals
+> [741] AMD buys into wireless VR: Is it the start of something bigger?
+> [751] Silicon Valley celebrates Moores Law, looks forward to next 50 years
+> [765] How to get started with DIY home alarm and security systems
+> [767] Killer Robot Drones are Coming to a Military Near You
+> [771] Netgear Orbi aims to kill your wireless dead zones with mesh networking
+> [775] Drones provide terrorists with a DIY air force
+> [780] Plume ships its value-priced entry into the mesh Wi-Fi fray
+> [792] Bitcoin explained: Crypto fad or the future of money?
+> [795] Hands on with Synologys RT2600ac monster Wi-Fi router
+> [798] IBM is bringing machine learning to a mainframe near you
+> [801] How to extend Wi-Fi coverage throughout your whole home or office
+> [803] Hands on with Anonabox Pro: mobile privacy, with quirks
+> [809] Asleep at the wheel: How Mt. Gox lost $400 million of customer money
+> [811] Netgear Brings Mesh Wi-Fi to Your Yard With Outdoor Orbi
+> [812] Samsungs new Bio-Processor knows more about you than you do
+> [814] Ability 3D promises to let hobbyists print with metal
+> [816] Virtual reality comes to the desktop, thanks to HP and Zspace
+> [820] Luma delivers whole-house Wi-Fi for non-geeks, with per-device security
+> [825] Appliances at CES 2017: How smart do you want your home to be?
+> [826] Jetstream aims to double residential solar efficiency
+> [827] CES 2017 highlights in photos
+> [830] 3D printing gets a big boost at CES 2017
+> [833] CES 2016 3D printer wrap-up: New models, new tech, new markets
+> [837] CES 2015: The week in photos, without leaving your desk
+> [838] 3D printing takes another huge step forward at CES 2015
+> [839] CES 2018 in Photos: What We Remember Most
+> [842] Drowning in drones at CES 2017
+> [848] Obama outlines NSA reforms: Data hoarding to be subject to presidential review
+> [849] Hearing Aids: Better, Cheaper, and More Accessible Than Ever
+> [852] Bitcoin, Blockchain, and ICOs: What You Need to Know
+> [854] New Samsung security camera hacks show yet again why its important to have a good firewall
+> [858] Road testing the radar detecting kings: Valentine One vs. Escort Passport Max
+> [864] ShotSpotter: Cracking down on deadly Fourth of July celebrations with audio tech
+> [865] Amazon robots close to replacing the rest of warehouse workers
+> [866] How to Set Up a Mesh Network for Your Home or Small Office
+> [870] Making gesture recognition work: Lessons from Microsoft Kinect and Leap
+> [873] 3D-Printed Guns Are Only the Tip of the DIY Iceberg
+> [875] AR and VR Highlights from Augmented World Expo (AWE) 2018
+> [879] Making sense of the NSA Prism leak as the real details emerge
+> [882] This Is My Rig: David Cardinals PC Build for Photoshop
+> [887] IBM Aims To Reduce Power Needed For Neural Net Training By 100x
+> [892] Adobe Unveils Project Rush Video Editor
+> [893] Hollywood and Silicon Valley face off on movie piracy
+> [896] Virgin Mobile Reinvents Phone Subsidies With iPhone-Only Deal
+> [897] O3b launches high-speed satellite internet for the under-connected
+> [901] TrackingPoint rifle lets you hit what you cant see
+> [913] How to Tell if You Should Use Blockchain in Your Application
+> [920] Facebooks Cambridge Analytica Scandal: How We Got Here
+> [922] Andy Grove, tech titan and Intel legend, passes away at 79
+> [927] Hands On With the HTC Vive Pro: Raising the Bar for VR Headsets
+> [936] New medical tech coming to the rescue for the vision-impaired
+> [945] Hands On With the Synology DS1517+ NAS: Affordable 10Gbps
+> [947] Reboot Reality: VR and AR Mark Milestone With New Interactive Exhibit
+> [950] Review: Living With the Nuheara IQBuds Boost
+> [958] Adobe Max in photos: Photoshop for audio, movie star cameos, fashion tech, and more
+> [962] HTC Vive goes wireless with expensive VR add-on
+> [965] MIT hopes to cut the VR cord with millimeter wave wireless headsets
+> [973] DIY: Extending Wi-Fi throughout your house
+> [974] How to Set Up Subscription-Free Offsite Backup
+> [988] Going Solar Part 1: How to Plan a Successful Solar Panel Project
+> [990] Samsungs toxic work culture exposed on the heels of Galaxy Note 7 disaster
+> [998] Why Tech Companies Lie
+> [1007] IBMs new AI-friendly server adopts Nvidias NVLink for faster memory
+> [1010] TSA goof renders its system for securing airline baggage completely useless
+> [1011] Hands On With Seagates 14TB IronWolf and Barracuda Pro Drives
+> [1012] Intel moves to make 3D gesture control as pervasive as the mouse
+> [1013] I want a smarter watch, not a smartwatch
+> [1027] Heres a look inside Samsungs new US semiconductor HQ [PHOTOS]
+> [1031] The future of biometrics: Word meanings and brain waves
+> [1032] Smart credit cards: an Apple Pay and Android Pay alternative?
+> [1036] Researchers power surveillance cam with WiFi signal
+> [1047] How the Internet of Things will enable smart buildings
+> [1048] Keeping it simple: The next technology revolution
+> [1049] Disaster response gets boost from AI, crowdsourced data
+> [1052] Its World Backup Day: Heres How the ExtremeTech Staff Stays Backed Up
+> [1058] Spear-phishing attack hits high level execs with ransomware
+> [1068] Could the Bitcoin blockchain one day run your entire city?
+> [1069] Amazon Prime nabs exclusive HBO TV shows, but Netflix isnt under the gun just yet
+> [1072] US plan to drop cyber bombs on ISIS will change the meaning of cyber war
+> [1079] Supreme Court grants FBI decentralized warrants, power to hack suspects anywhere
+> [1083] What is the blockchain, and is it really about to change the world?
+> [1084] Widely trusted API lets cyber-spies fingerprint your device battery
+> [1085] The FBIs largest ever blow to child porn and the Deep Web, and its possible ripple effects
+> [1087] ICANNs new plan to end US oversight of the internet
+> [1092] Anonymous is outright challenging (or trolling) the Canadian government
+> [1098] Cyber is the new nuclear, changing the world through mutually assured disruption
+> [1101] Snowden went too far by revealing the NSAs MonsterMind cyber weapon
+> [1104] New discovery may make encryption exponentially easier to break
+> [1105] Your torrent client could help hackers hijack your computer
+> [1106] Samsung wants to deliver the internet via thousands of satellites
+> [1112] DNA can now reliably store data for 2,000 years or more
+> [1115] The Shadow Brokers NSA theft puts the Snowden leaks to shame
+> [1128] Quantum computing videos help explain the next frontier in computation
+> [1141] New PC malware loads before Windows, is virtually impossible to detect
+> [1143] The Internet Archive just got a bit more useful -- and a lot more political
+> [1144] NSA can track you with cookies from Google, iOS, Android - and it might be legal
+> [1151] What are prime numbers, and why are they so vital to modern life?
+> [1161] MIT, Adobe aim to end code rot by letting software auto-optimize
+> [1162] Facebooks censorship regime is a dangerous gamble
+> [1164] Study shows Fed encryption fears overblown -- but thats not good news
+> [1167] Julian Assange is no victim
+> [1170] Inside Intels phenomenal effort to end its use of conflict minerals
+> [1171] The UKs Taranis stealth drone showcases the scary future of riskless warfare
+> [1173] Silk Road 2.0 hacked for millions, community tearing itself apart
+> [1177] GCHQ, NSA secretly collected webcam images from millions of Yahoo users
+> [1180] It probably wont matter Cuba got a dummy Hellfire missile -- and thats terrifying
+> [1186] Free Basics, net neutrality, and the problem with charity
+> [1191] AdBlock blocked by ad industry, as tensions set in
+> [1193] Election 2016: Where the would-be leaders of the free world stand on tech
+> [1195] Sonys new genome analysis company is not playing catch-up with Calico
+> [1197] Major patent expiration could spark a second 3D printing revolution
+> [1198] Upcoming flood of new top-level domains could change how we surf the internet
+> [1203] UKs Cameron wants to ban encryption
+> [1204] Washington Post is the first major paper to begin encrypting traffic
+> [1216] Enormous leak exposes Hacking Team as blackhat organization
+> [1217] How DNA data storage works
+> [1219] Paradigm-shifting, cheap, fast, portable DNA amplifier to be mass produced by Lockheed
+> [1222] The Dallas police robot killing is a big deal, but its not about tech
+> [1228] Google is testing a Chrome browser that adds post-quantum encryption
+> [1235] How the blockchain could revolutionize welfare -- or undermine the poor
+> [1239] Its official: Seizure of hacker forum Darkode proves FBI can get anyone
+> [1240] Mars One candidates to compete for place on imaginary mission
+> [1243] Hackers threaten to expose 37M philanderers, if demands arent met
+> [1251] 3D-printed rifle takes us one step further down a long, shadowy road (video)
+> [1252] Japan will face the robotic jobocalypse head-on, by mastering robots before they master us
+> [1256] Crypto-heist threatens to tank blockchain-based future
+> [1263] Hackers hijack a super yacht with simple GPS spoofing, and planes could be next
+> [1265] Genomics pioneer betting it all on new medical AI project
+> [1267] New indoor positioning system lets you do Batman-like echolocation on your phone
+> [1268] Bleep: BitTorrents new p2p chat client avoids the cloud so you can speak freely
+> [1269] DARPAs Plan X to bring military mindset to cyber-war
+> [1270] Los Alamos researchers foil nuclear smugglers with 200-terawatt laser
+> [1271] Data Fortress 101: Is it possible to make a computer thats totally invulnerable to the NSA?
+> [1272] Industry is helping NASA track every drone in the sky
+> [1279] RoboRoach Kickstarter project will bring cyborg insects to the masses
+> [1287] US readies Humvees with drone-killing lasers: Will the global arms race ever stop?
+> [1288] Asteroid capture program needs your help to prove were smarter than the dinosaurs
+> [1291] 3D printing pioneer Stratasys looks to the future and buys MakerBot, Thingiverse
+> [1300] Computer coughs up passwords, encryption keys through its cooling fans
+> [1311] A new plan to fight ISIS: turning big data on social media
+> [1313] New analytics can predict -- and possibly prevent -- police misconduct
+> [1315] There can be no middle ground on encryption
+> [1319] FBI drops iPhone case, but only because it doesnt need Apple anymore
+> [1321] Bitcoin could soon use more power than Denmark, but help is on the way
+> [1330] New solar project to provide less expensive power than coal, but will it last?
+> [1331] Government lab reveals its had fledgling quantum internet operating for two years
+> [1333] The Silk Road 2.0 is now bigger and better than ever before: Whats the FBI to do?
+> [1337] What you can learn from the NSAs declassified guide to online spying
+> [1338] NIST report says we urgently need more work in post-quantum cryptography
+> [1339] Warrantless spying on Americans more than doubled since 2013: oversight report
+> [1347] After censorship scandal, Zuckerberg scrambling to re-obscure Facebooks true nature
+> [1352] New in-ear device could be the beginning of a world without language barriers
+> [1355] Augmented reality startup hires Steve Mann, world starts paying attention
+> [1362] Snowden reveals his motives, spy training, and patriotism in first US interview
+> [1363] Quantum encryption isnt as unbreakable as you think
+> [1368] Who really invented Iraqs Al Robot combat drone?
+> [1373] The rebirth of the Silk Road and the return of the Dread Pirate Roberts
+> [1375] Dark market massacre: FBI shuts down Silk Road 2.0 and dozens more Tor websites
+> [1379] UK law mandates software backdoors, jail for disclosing vulnerability
+> [1381] Cybercrime evolved: Cryptolocker virus gets user-friendly with brilliantly twisted update
+> [1382] New metal lets todays 3D printers make tomorrows electronics
+> [1386] Tor is getting a major security upgrade
+> [1395] At up to 455 exabytes on a single gram, DNA storage could create mankinds permanent record
+> [1398] Bitcoin breaks $1000, but how far can it go?
+> [1399] Crude oil redux: Rare earth elements, and their strategic stranglehold on modern life
+> [1402] Ransomware shuts down San Fran transit, but the hacker just got hacked
+> [1407] Silk Road shutdown: The rise and fall of one of the webs most successful and naive cyber criminals
+> [1408] $0.55 per watt from SolarCitys record-breaking new solar panel
+> [1410] The nuclear industry has a culture of denial about hacking threats
+> [1413] Japan finally admits to needing help containing Fukushima leaks
+> [1414] Silk Road: How to be a Deep Web criminal and get away with it
+> [1416] Printed, flexible touch interfaces can be cut to fit any surface
+> [1418] Will Zuckerbergs third-world internet come to North America?
+> [1423] The Intercepts drone doc mega-leak is whistleblowing evolved
+> [1433] Russian ships may be preparing to attack the global internet
+> [1434] Is the NSA trying to warn us that cryptography is dead?
+> [1436] In bid to achieve quantum encryption, China set to finish 2,000-kilometer quantum link
+> [1439] Its time to pardon Edward Snowden, and defuse Putins increasingly dangerous weapon
+> [1441] NASA delays Orion crew module to 2018, three years after original target
+> [1443] Our insecure Internet of Things is becoming terrifying
+> [1450] Bomb-detecting lasers could be the next upgrade to airport security
+> [1459] These robotic spider legs could let helicopters land anywhere
+> [1463] New quantum dot could make quantum communications possible
+> [1466] IBMs upcoming blockchain release could change the internet
+> [1471] An unknown state may be running drills for taking down the entire internet
+> [1472] Googles war on spam and how encryption could finally win it - for the spammers
+> [1473] Enormous air purifier creates bubbles of clean air in polluted cities
+> [1477] FAA to permit smartphone and e-book reader usage during takeoff and landing
+> [1483] Get ready for organized cybercrime
+> [1485] How to send and receive encrypted email for free
+> [1490] IBM, Google, Facebook, Microsoft, Amazon form enormous AI partnership
+> [1496] The best laptops for college students: Learning digitally has never been easier
+> [1501] 6 ways to improve your spring and summer with technology
+> [1513] FCC begins to cave on the net neutrality issue
+> [1521] Former Kickstarter darling Ouya is up for sale: Report
+> [1524] Is Belkins Thunderbolt Express Dock enough to compete with the USB juggernaut?
+> [1528] Dystopian reality: GameStop now taking your fingerprints before you can trade in used games
+> [1541] iPhone fingerprint scanner and randomized keypad would greatly increase security
+> [1542] PS4s 4.0 firmware aims to fix the user interface
+> [1544] The American Midwest: Traveling where the cloud cant follow
+> [1556] Is it safe to use the Ghostery privacy extension?
+> [1560] Nintendo announces the 2DS, a slate-like 3DS without 3D
+> [1568] An Antarctic Adventure: The life of a South Pole communications technician
+> [1577] 23andMe halts health-based DNA analysis after FDA crackdown
+> [1581] Leave your wallet at home, Iowa is implementing digital drivers licenses
+> [1583] ET Green Monday Deals: Up to $50 off New Amazon Gear
+> [1593] ET Last Minute Holiday Gift Deals: iPhone X, Nintendo Switch, and more
+> [1598] For VR to succeed, it needs evangelists. Will it get them?
+> [1606] FCC will attempt to regulate ISPs as utilities, Chairman confirms (updated)
+> [1610] IBM updates Watson with five new features, now better than ever
+> [1614] Dont panic: Mozilla will be incorporating ads into Firefox
+> [1616] Foreigners in North Korea receive special WiFi access, its citizens dont
+> [1623] ET Presidents Day Deals: Dell Laptops, 4K TVs, and more
+> [1626] FDA authorizes 23andMe to market health-related genetic testing
+> [1631] FCC votes in favor of net neutrality, reclassifies ISPs
+> [1640] The Oculus Rifts $599 price tag isnt as bad as it sounds
+> [1646] Save 25% on the Dell UltraSharp UP3216Q 32-inch 4K UHD PC monitor
+> [1647] Firefox gets free video chat, and it works with Chrome
+> [1651] The top laptops for photographers, engineers, students, and everyone else
+> [1652] As the Wii U struggles, reports and specs of Nintendos next-gen consoles spread
+> [1660] ET deals: Up to 50% off QuickBooks Online
+> [1671] Best Laptops for Video Editing
+> [1684] ET Prime Day Deals: Amazon Cloud Cam, Monitors, PCs and Laptops
+> [1685] Amazons Kindle Unlimited service is the digital library weve always wanted (updated)
+> [1686] The $300 GoTenna turns your smartphone into a CB radio, lets you send messages when you have no cell signal
+> [1690] Handheld device allows anyone to instantly test drinks for date rape drugs
+> [1697] A security flaw in Steam let anyone change your password
+> [1706] Best Software for Malware Removal and Protection
+> [1707] Best Tools for Spyware Removal and Protection
+> [1716] The best storage mediums of all time
+> [1753] Protect Your Online Privacy With the 5 Best VPNs
+> [1758] Amazon wants to curb warehouse clutter by installing 3D printers on trucks
+> [1760] 20 Best Tips to Stay Anonymous and Protect Your Online Privacy
+> [1766] Java now pollutes your Mac with adware -- heres how to uninstall it
+> [1771] Sony to launch PlayStation Vue IPTV in three US cities soon
+> [1774] Woe is ISP: 30% of Americans cant choose their service provider
+> [1800] Maker culture: junk robots, DIY tablets, 3D-printed dice, and more
+> [1801] How to Set Up TorGuard VPN to Stay Private Online
+> [1802] 3D printing just got a lot more colorful with the ProDesk3D
+> [1803] Virtually perfect: The past, present, and future of VR
+> [1805] Florida rolls out large-scale smart grid, puts rest of country to shame
+> [1811] Zenimax threatens to sue Oculus VR for IP theft: Is Carmack a liability?
+> [1816] We could have a la carte cable TV soon if John McCain has his way
+> [1820] How to Speak Out Against the FCCs Attempt to Kill Net Neutrality
+> [1822] The Bitcoin network outperforms the top 500 supercomputers combined
+> [1827] The worst storage mediums of all time
+> [1829] Mozilla drags its feet on blocking third-party tracking cookies
+> [1831] Dell XPS 13 13.3-inch touchscreen laptop for $1300 with a free 32-inch HDTV
+> [1834] Robohands cheap 3D-printed leg is set to revolutionize prosthetics
+> [1835] Five OS X Automator tips for saving time and sanity
+> [1841] Best Online Backup Solutions
+> [1842] ET Memorial Day Deals: Dell 27-inch 144Hz 1440p Monitor for $400, 65-inch Vizio for $600, and more
+> [1846] ET deals: Get a ZTE Force smartphone for $24.99, enjoy free mobile data from FreedomPop
+> [1852] ET Memorial Day Deals Still Live: Save big on LG 65-Inch OLED 4K TV, Beats Headphones, and more
+> [1857] The tech that could change voting in America
+> [1875] Samsungs phablet-powered Gear VR launches in December for $200
+> [1881] This tiny $100 box lets you really feel the bass, even using headphones
+> [1885] ET Black Friday Week Deals: $200 EcoBee, $100 Fire HD 10, $40 PS Plus, and more
+> [1886] 6 perfect gifts for science geeks in 2015
+> [1887] ET Black Friday 2017: Best Deals for Laptops, TVs, Gaming, and more
+> [1890] 6 tech tips to improve your Thanksgiving holiday weekend
+> [1892] ET Cyber Monday Deals: Save on Laptops, TVs, Electronics, and more
+> [1893] ET Cyber Week Deals: 32-inch Dell Monitor for $170, Samsung 55-inch 4K TV for $600, and more
+> [1896] This weird exoskeleton adds the sensation of touch to virtual reality
+> [1899] Valves Steam Box specs revealed, seems like a letdown
+> [1919] 5 of Our Favorite Audio Books for Science and Space
+> [1930] Ubuntu 14.10 Utopic Unicorn released: Happy 10th birthday, Ubuntu!
+> [1935] ET deals: Netgear Zing LTE hotspot for $39.99 with free mobile data from FreedomPop
+> [1977] Comcast calls its critics extortionists, backlash ensues
+> [1988] USB will thankfully never be the same: Reversible Type-C cable and port revealed
+> [1991] Eerie glow-in-the-dark roads replace streetlights in Netherlands to save money, energy
+> [1994] Nike looks at the future of wearables and ceases Fuelband production
+
+
+Cluster 10 words: xbox, game, microsofts, ps4, console, sony, launched, release, pc, hardware, version, play
+Cluster 10 titles:
+> [944] Kinect for the Xbox One: Sensor revolution or marketing hype?
+> [1494] Windows apps announced for Xbox One: Is Steam in the cards?
+> [1497] Plex personal media streamer is coming to Xbox One
+> [1498] Xbox One and Xbox 360 versions of Titanfall look shockingly similar
+> [1515] Which Xbox One Games Deserve a Scorpio Upgrade?
+> [1519] ET deals: Get an Xbox One, game, and bonus controller for $300
+> [1527] Xbox One is built to last for 10 years while powered on, sources say
+> [1529] DirectX 12 is coming next year, but it probably wont help Xbox One games run at 1080p
+> [1530] Xbox One will capture 720p video as you play, revolutionize achievements
+> [1536] Microsoft at Gamescom: DLNA returns, white Xbox One, live TV streaming coming this year
+> [1537] Microsoft promises Xbox One controller support for Windows in 2014, but why not on day one?
+> [1540] Xbox One delayed in 8 countries, but will benefit from region-free game releases
+> [1543] August Xbox One system update brings 3D, remote downloads
+> [1550] Xbox One now offers game pre-loading, full-game demos on the way
+> [1551] PS4 and Xbox One user interfaces are all about simplicity and speed
+> [1559] Microsoft offers $150 Kinect, but does anyone actually want one?
+> [1563] What to Expect From the Xbox One X
+> [1567] Xbox Ones 1080p upscaling makes games look worse
+> [1571] Gears of War 4 competitive cross-play being tested this weekend between PC, Xbox One owners
+> [1572] PS4 off to extraordinary start, trounces last-gen launch sales
+> [1578] Dead Rising 4 improves on past installments, but still lacks polish
+> [1601] Heres why Microsoft shouldnt launch an Xbox set top box
+> [1607] Will the PS4 and Xbox One receive 4K support this year?
+> [1613] Amazon could take on the PS4, Xbox One, and Apple TV all at once with its own game console
+> [1615] Titanfall beta only runs at 792p, Xbox One fails to deliver 1080p for major release
+> [1620] Metal Gear Solid 5 runs at 1080p on PS4, limited to 720p on Xbox One
+> [1622] Xbox One patch fixes 720p to 1080p upscaling issues - sort of
+> [1624] PS4 will continue to outsell the Xbox One through 2018, report says
+> [1630] Xbox One is frantically playing catch-up in preparation for the launch of Titanfall
+> [1635] A disc-free, hard-drive-only Xbox One could be on the cards
+> [1656] Xbox One design team used hundreds of 3D-printed prototypes to fine-tune the console
+> [1658] Will Microsoft bring Xbox Live Gold to the PC?
+> [1661] Rise of the Tomb Raider looks and plays better on PC, but budget gaming rigs wont cut it
+> [1664] Xbox Fun: Xbox One to get massive price cut, 1TB hard drive, report says
+> [1666] The man behind the Xbox One, Don Mattrick, might be leaving Microsoft for Zynga
+> [1683] Xbox One may not be a hit like the Xbox 360, despite impressive features
+> [1688] Windows 10 beta users can now stream Xbox One games locally
+> [1691] 5 killer Xbox One and PS4 features that no ones talking about
+> [1695] Sony hurriedly patches 3D Blu-ray playback into the PS4 after Microsoft promises support
+> [1696] PS4 Destiny graphics look superior to Xbox One version, but barely
+> [1703] Sony has sold more PS4s than the Xbox One and Wii U combined: Report
+> [1713] Xbox Ones June software update gives developers 10% more GPU power
+> [1715] AMD has console gaming in its pocket, but can it squeeze out Nvidia on the PC?
+> [1725] Oculus Rift 1.0 ship date and technical details revealed
+> [1726] Microsofts 4K-Ready Xbox One X Launches November 7th at $499
+> [1729] Microsoft E3 2016 live blog: Xbox One S, Gears of War 4, and Project Scorpio
+> [1730] E3 2016: Microsofts Project Scorpio promises 4K gaming and VR support
+> [1732] E3 2015: Microsoft is adding local 360 backwards compatibility to the Xbox One
+> [1745] Xbox Ones $700M data center should help combat the PS4s onslaught
+> [1749] Microsofts Xbox 180 wont inhibit online-only games on the Xbox One
+> [1759] Microsoft is blurring the lines between PC and Xbox One gaming
+> [1761] Microsoft to force Xbox Live on iOS and Android, will lead to disaster
+> [1763] Microsofts pre-Titanfall Xbox One update finally fixes multiplayer
+> [1773] Xbox One X-Enhanced 360 Games Drop Jaws With No Code Changes
+> [1786] Mass Effect: Andromeda has performance issues on both Xbox One and the base PS4
+> [1787] 4K Burnout Paradise Remaster Makes Us Long for the Heady Days of 2008
+> [1804] Microsofts backwards policies are hurting the Xbox One
+> [1808] The PS4 is being adopted faster than the PS2 in the UK -- but does that matter?
+> [1810] Microsoft: The Xbox 720 wont require an always-on connection to play games
+> [1823] Witcher 3 uses dynamic resolution scaling on Xbox One to hit 1080p
+> [1824] Xbox 720 to be announced next week, but we probably wont find out how much it costs or what it looks like
+> [1833] Xbox 720: Microsoft will show off Kinect 2.0 & IllumiRoom at Xbox event tomorrow
+> [1836] Xbox Reveal: Xbox 720 is now the Xbox One, with 8-core CPU, 8GB of RAM, and Kinect 2.0
+> [1838] How do the Xbox One and PS4 controllers stack up?
+> [1839] The Witcher 3 cant maintain 30fps on either the PS4 or Xbox One
+> [1855] PS4 and Xbox One are coming in hot: Expect lots of issues on release day
+> [1858] Call of Duty: Ghosts hits 1080p on PS4, only 720p on Xbox One due to weaker hardware
+> [1859] Call of Duty: Advanced Warfare is running at a bizarre resolution on the Xbox One
+> [1862] The PS4 is still dominating console sales, but the Xbox One is far from finished
+> [1866] Counterpoint: Why You Shouldnt Buy or Upgrade to the Xbox One X
+> [1867] Microsoft confirms that PS4, Wii U will work with Xbox One HDMI passthrough
+> [1868] Xbox One cloud servers will frequently reboot, potentially losing your in-game progress
+> [1870] Fallout 4 runs at 1080p on consoles, but the frame rate suffers
+> [1888] Xbox One is selling strong in the UK, but how can Microsoft take over Europe and Japan?
+> [1889] Xbox One plagued by Blu-ray drive problems, but fortunately no sign of the red ring of death yet
+> [1895] Xbox One games will have more access to the GPU, better graphics in the future, says Microsoft
+> [1897] Forza Horizon 4 at 60fps Is a Thrill on Xbox One X
+> [1902] Xbox One is selling in China, but can emerging markets help Microsoft compete with the PS4?
+> [1904] Assassins Creed Unity locked to 900p @ 30 fps, due to Xbox One and PS4s weak CPU
+> [1905] Confirmed: Sony cuts the price of the PS4
+> [1909] PS4 and Xbox One wont support your expensive third-party headset - for now
+> [1914] PS4 and Xbox One: Just how strict is the DRM?
+> [1916] The Witcher 3s latest patch improves the frame rate on PS4, hurts it on Xbox One
+> [1917] Xbox One and Windows 8 wont have cross-play -- at least for now
+> [1920] PS4 confirmed to ship with easily replaceable 2.5-inch hard drive
+> [1925] A leaked Black Friday ad points towards a $300 Xbox One
+> [1927] Should you upgrade to a wireless Xbox One controller on your gaming PC?
+> [1929] Xbox One manual leaks, reveals vital Kinect details, console and gamepad setup
+> [1940] The Best Xbox One and Xbox One X Accessories
+> [1942] Metal Gear Solid V runs at 60fps on PS4 and Xbox One, dips down to 20fps on last-gen consoles
+> [1946] PS4 and Xbox One wont support external hard drives for now
+> [1949] Xbox One release date confirmed for November 22, a week after the PS4
+> [1950] Best Xbox One X-Enhanced Games for $20 or Less
+> [1951] The Xbox One will feel more powerful in practice than it seems on paper
+> [1955] Xbox One user interface leaked, launches games in seconds
+> [1961] PS4 production yields are high, but Xbox One might be in trouble for release day
+> [1963] Forza Horizon 3 demo looks great on the Xbox One, PC players have to wait
+> [1964] Turn your Xbox One into a laptop for $1100
+> [1965] Destinys graphics nearly identical on PS4 and Xbox One: Maybe the Xbox One can hit 1080p after all
+> [1966] PS4 is 50% faster than Xbox One, report game developers
+> [1976] PS4 and Xbox One: How to upgrade your PS3 and Xbox 360 games cheaply
+> [1983] On the Xbox One you can have next-gen graphics or next-gen gameplay - not both
+> [1985] Xbox One Kinect can understand two people speaking at once, PS4 counters with camera bundle
+> [1999] Xbox One GPU gets modest boost in power to combat PS4 supremacy, Microsoft confirms
+
+
+Cluster 11 words: car, vehicles, driver, bmw, self-driving, drive, automakers, engine, fueled, electricity, years, auto
+Cluster 11 titles:
+> [45] Self-Driving Cars Pose Thorny Ethical Questions in AI
+> [111] CES 2017 delivered a clear vision of the car of the future
+> [114] The connected car: much more than a smartphone on wheels
+> [117] The Digital Multi-Screen Experience: Coming Soon to a Car Near You
+> [131] Autonomous cars at SXSW 2017: transportation panacea or a long road ahead?
+> [133] How autonomous cars could redefine our society
+> [152] Rolling Thunder: The Coming Battle Over MPG, Emissions, and States Rights
+> [155] Delphi looks to profit from your connected cars data
+> [156] In America, Crossovers Are Hot, Sedans Are Not
+> [158] Super Cruise: Will Cadillacs self-driving CT6 be better than Tesla?
+> [159] Daimler-Bosch alliance aims at self-driving taxis by early 2020s
+> [160] Nissan Rogue Dogue SUV puts Fido first
+> [161] Toyota turns to guardian angel self-driving cars
+> [163] BMW uses low-cost VR (HTC Vive) to visualize high-end cars
+> [165] Delphi self-driving car goes coast-to-coast, autonomously
+> [167] Best cars of the 2017 New York auto show
+> [169] Land Rover X-ray vision sees through the cars hood when off-roading, hill-climbing
+> [170] Do tech features help or hinder car and truck resale values?
+> [172] BMW X5 plug-in hybrid hands on: Chevy Volt meets upscale SUV
+> [173] Mercedes-Benz parent Daimler launches US mobility service called Moovel
+> [177] Your next cars backup camera could detect moving and stationary hazards
+> [179] What is night vision, how does it work, and do I really need it in my next car?
+> [180] Did Nissan out Mitsubishi on overstated fuel economy ratings?
+> [181] Top Cars of the 2017 Shanghai Auto Show
+> [183] BMW i3 test drive: The second best electric car that money can buy
+> [185] Nissans self-cleaning car could kill off car washing forever
+> [186] Amazon Ponders Self-Driving Vehicles for More Efficient, Cheaper Delivery
+> [188] Why Cars Are Moving to 48-Volt Electrical Systems
+> [189] Team Fahrvergnugen used PowerPoint to plot the VW diesel emissions cheat
+> [190] Bosch: We Can Do Ultra-Low-Emissions Diesels (Without Cheating)
+> [191] Why automaker cheating threatens the self-driving car
+> [192] Porsche patents a variable-compression-ratio engine to boost power and fuel efficiency
+> [195] Crashed the Benz? Rescue Assist App helps get you out, safely
+> [196] Red light countdown appears on your cars dashboard via smartphone
+> [197] GM fixes, refixes OnStar RemoteLink hack
+> [200] Tesla amps up Model S self-driving capabilities with firmware update
+> [201] The Jeep Cherokee hack gets worse -- at least if hackers can get physical access to the car first
+> [203] New eHorizon system warns of road hazards just around the corner
+> [205] Best Car Subscription Services: Multiple New Rides Each Year, but Costs May Soar
+> [208] Honda Fit: 86 mpg from the next hyper-efficient hybrid
+> [212] How Audi worked the V6 diesel emissions cheat: a 22-minute timer
+> [214] Mazdas 2019 Breakthrough: a Diesel Engine That Runs on Gasoline
+> [217] Bugs in the Bug: 100 million cars, especially VW, may be at risk for unlock hacks
+> [218] Todays car hacks: BMW, Chrysler, Mercedes-Benz on iOS
+> [220] New Audis will tell you when the next traffic light will turn green
+> [221] $20,000 Rebates on Nissan Leaf and BMW i3 EVs Offered in California
+> [224] Union May Win Battle Against Self-Driving Trucks, But Not the War
+> [225] Uber, Volvo hook up to create next-generation autonomous cars
+> [226] Cadillac Escala concept car uses super-bright OLED displays
+> [232] Access to self-drive technologies drives Silicon Valley takeovers
+> [235] Why Chevy makes the best rental cars: Youll get the core tech you want
+> [244] Google hires Teslas self-driving-car engineering manager
+> [245] Chips, ahoy: Intel joins Delphi-Mobileye self-driving collaboration
+> [247] Hands-off the steering wheel with a Delphi-Mobileye autonomous test-drive
+> [249] VWs 13th brand: Moia, for ride-hailing (and maybe self-driving) electric shuttles
+> [250] If automakers want the highest crash ratings, theyll have to add collision-prevention tech
+> [251] Hands on with Audis exciting (no, really) traffic light countdown timer
+> [257] Feds push hard for vehicle-to-vehicle communication, at least until Jan. 20
+> [259] How will cars, car tech, and clean air fare under the Trump presidency?
+> [263] Hyundai Ioniq self-driving car: flawless, all right turns, no danger of speeding tickets
+> [264] MIT study: Driverless truck platoons will save fuel and money, especially if they tailgate
+> [266] The Restored $7,500 Tax Credit Helps the US, Not Just EV Buyers
+> [272] Five reasons you should buy a car right now
+> [277] V2V: What are vehicle-to-vehicle communications and how do they work?
+> [282] Buick joins the torque-vectoring, goes-in-the-snow, all-wheel-drive show
+> [283] Behind Harmans Bid to Remake the Car, With Samsungs Clout
+> [284] Top 10 cars of the 2017 Chicago Auto Show
+> [289] Vehicle Dependability Study: The JD Power Survey That Really Matters
+> [291] Rebuild Loophole Lets Some 18-Wheelers Out-Pollute Dieselgate VWs
+> [294] Is texting to blame for 2016s increase in vehicular deaths?
+> [297] Software Cheat May Have Helped Mercedes-Benz Pass US Emissions Rules
+> [298] Harman, Ultrahaptics team up for mid-air haptic feedback
+> [301] How a college student built a self-driving car for $700
+> [304] Diesel passenger car sales go on life support -- just 222 sold in January
+> [310] Perrone Robotics: Well Make Cars, Vacuums, Mining Trucks Self-Driving
+> [313] The 3 Car Types That Demand Winter Tires
+> [314] 10 almost-perfect tech cars to buy in 2017
+> [315] Lease Undesirable Alternative: 80 Percent of EVs are Leased, Not Bought
+> [318] Why GM gave Lyft $500 million: Sell cars, co-develop self-driving cars
+> [321] CES: 2014 Chevy Corvette can be equipped with racing camera, output game-like video footage
+> [322] As the Internet of Cars draws near, heres what drivers dont want
+> [323] BMW: Were keeping diesels in the US lineup. VW: Were fixing ours
+> [324] CES 2014: Audis laser headlamps will definitely make slow traffic move over when you flash the brights
+> [325] CES 2014: 4G cars usher in the era of the seriously connected automobile
+> [326] The best tech cars of CES 2016
+> [328] Boschs view of the future car: truly keyless entry, haptic feedback, smart parking, cybersecurity
+> [329] Aptivs Self-Drive Car at CES 2018 Is Worlds Better
+> [331] This Is Your Brain On Electrodes: Nissans B2V Driver-Skill Amplifier
+> [333] Its 2015, self-driving cars are more than a promise
+> [336] Best cars of CES 2017 -- almost the Car Electronics Show
+> [337] The Best Cars and Car Tech of CES 2018
+> [340] Top 10 tech cars of the 2017 Detroit auto show
+> [346] Trump blasts BMW for, er, building almost 50,000 more cars in the US than it sells in the US
+> [347] Hands on with BMWs self-driving 5 Series
+> [350] Top 10 Cars and Trucks of the 2018 Detroit Auto Show
+> [354] How all-wheel-drive works and gets you through the blizzard
+> [355] Michelins Acorus Means Potholes Wont Damage Low-Profile Tires, Wheels
+> [357] Test drive: Hydrogen fuel cell Toyota Mirai cruises 300 miles, costs $45K - can your EV do that?
+> [360] V2X (vehicle-to-everything) conquers tough roadway curves, construction zones, red lights
+> [362] Hands On: How Mazdas Gasoline-Powered Diesel May Lift MPG 20-30 Percent
+> [366] Which JD Power Study Should You Trust the Most?
+> [369] Volvo: All Our New Car Models Will Have Electric Motors in 2019
+> [370] How do electric cars work?
+> [378] Conspiracy of the week: Can your car be hacked while youre driving?
+> [379] Done in by CES and Bad Weather, Detroit Auto Show Moves to June
+> [380] With Its CEO Busted, Audi Teases e-tron Interior, Video Side Mirrors
+> [381] How Self-Driving Cars Work, and When Theyll Get Real
+> [382] Mercedes, BMW Move Forward on Self-Driving Partnerships
+> [383] Tariff War Casualty? Americas Largest Car Exporter Shifts Some Production to China
+> [385] The 2019 Audi A8 Will Drive Itself Up to 37 mph
+> [386] First self-driving Japanese car: 2017 Nissan Serena with ProPilot
+> [389] 5 things automakers must do to keep self-driving safe (and available)
+> [390] How BMW weaves, bakes, and builds the carbon fiber 7 Series
+> [393] Formula E Racing Takes New York, Looks to No-Car-Swap Future
+> [395] What are car surround view cameras, and why are they better than they need to be?
+> [396] Why Formula E Is the Auto Racing Series of the Future
+> [403] BMW i3 electric car will sell for $42K in the US: Watch out Ford and Nissan
+> [404] Why Team Autobahn wants Nokias navigation maps business
+> [405] Does more tech in cars mean more breakdowns?
+> [407] Good Cars, Poor Sales: Why GM Might Kill Off 6 Sedans
+> [408] GMs Maven Service Lets Owners and Lessees Rent Out Their Cars
+> [411] How does GPS work?
+> [413] BMW i3: Cheap, mass-produced carbon fiber cars finally come of age
+> [430] Ultimate Assisted-Driving Machine: BMW unveils gesture-recognizing, self-driving 2016 7 Series
+> [432] Apples iOS 7 makes a bold move for the car dash, seeks to replace in-car infotainment
+> [433] Recharge your electric vehicle in 20 minutes starting later this year
+> [434] It wont be the last time: Over-the-air glitch bricks Lexus infotainment
+> [438] VW shifts focus from diesels to EVs, plans 30 electric car models by 2025
+> [440] Minis 100-year vision: shared self-driving electric cars, changeable paint jobs
+> [441] The outlandish Rolls-Royce self-driving concept car of the future: Vision Next 100
+> [446] The great flying car dream: With Terrafugia, Toyota, and Musk on board, has their time finally come?
+> [450] Was the 24-Hour Le Mans Endurance Race Too Tough on Hybrid Tech?
+> [454] Volvo Shows Off New US Factory, S60 Sedan, Asks for Openness on Trade
+> [455] BMW i3 batteries get recycled for home power backup
+> [466] Chevrolet Cruze Diesel Gets Hybrid-Like Mileage, at a Cost
+> [467] 204 mph world record for electric car, another Le Mans win for diesel
+> [468] Mazda G-Vectoring Control: Software tweak makes you (think youre) a better driver
+> [469] Best Diesel Cars and SUVs Worth Buying in 2017
+> [471] Why VWs $10 billion settlement is a good deal for diesel owners
+> [473] BMW, Intel, Mobileye lay groundwork for self-driving car
+> [475] States, Feds Vie to Set Testing Rules for Self-Driving Cars
+> [477] Oh, the humanity: Google car self-drives into a bus...at 2 mph
+> [478] Bugatti Chiron numbers generator: 1,500 (hp), 261 (top speed), 2.6 million (dollars)
+> [479] Diesel Ban in Stuttgart: Beginning of the End?
+> [485] Top 10 tech cars of the Geneva Auto Show
+> [487] The 5 top tech cars of the 2014 Geneva Motor Show
+> [489] Goodyears future tires for self-driving cars: four maglev spheres
+> [490] BMW Vision Next 100 concept switches between driven and self-driven
+> [491] The CIA may be hacking cars, as well as phones and TVs, according to WikiLeaks
+> [492] Top 10 cars at the Geneva auto show
+> [493] The Top 10 Cars of the 2018 Geneva Motor Show
+> [496] One Small Step for Mankind: Audi Builds E-ZPass into Rearview Mirror
+> [498] What is vehicle telematics?
+> [500] 2018 Geneva Motor Show: Top 10 Cars for People Richer than Us
+> [502] Volvos truly keyless entry: your smartphone
+> [503] EVs with 100-mile range may be all you need, some automakers say
+> [507] GM Stations Chevrolet Bolts in Austin for Maven Ridesharing
+> [513] Virgin may build electric vehicle to compete with Tesla
+> [515] The dumb, distracted things drivers do before they crash
+> [519] What to Expect at the 2018 New York Auto Show: Crush of Crossovers, a Couple Key Sedans
+> [523] Trump can roll back MPG rules with a stroke of the pen. Its not so easy to roll back climate change.
+> [525] The Best Cars and SUVs of the 2018 New York Auto Show
+> [526] Hands on with Hyundai Tucson Hydrogen Fuel Cell: runs just like a normal car (in SoCal)
+> [528] Mercedes-Benz stolen car tracking works, just ask the Boston Marathon bombers
+> [529] Intels new car headlamp makes rain and snow almost invisible
+> [535] Pay Up: No More Free Express-Lane Rides for Low-Emissions Cars in LA
+> [536] Are we there yet: Cadillacs semi self-driving car with Super Cruise
+> [537] 2017 BMW i3: The new normal for EVs is 100-plus miles range. If not 200.
+> [538] Manual Gearboxes Are All but Dead. Theyre Worse in Every Way Possible.
+> [539] Why Fiat-Chrysler and Google are designing self-driving minivans
+> [541] Behind GMs EV deal with Lyft: The old guard prepares for wrenching change
+> [542] Sign of the apocalypse as Daimler unleashes self-driving trucks in Nevada? Hardly
+> [543] Fatal Arizona Crash: Uber Car Saw Woman, Called It a False Positive
+> [546] Terrafugia TF-X: The vertical take-off flying car
+> [547] MIT Builds a Self-Driving Car for Unmapped Country Roads
+> [549] What is diesel technology?
+> [550] With Toyota, Nvidia Racks Up Another Autonomous Car Design Win
+> [552] Will California Go to the Mat Over a Tougher MPG Standard?
+> [557] Why BMW, Intel, and Mobileye Invited Delphi to the Self-Driving Party
+> [559] Chevrolet Puts a 307-Horsepower Four-Cylinder in Its Full-Size Silverado Pickup
+> [560] 2015 Volvo S60, V60 with Drive-E review: Faster, safer cars for Democrats
+> [570] Memo to the Prez: Germans Already Build Cars Here
+> [574] 5 Extreme Car Features You Didnt Know Existed (or What They Cost)
+> [577] Top Car Trends from the 2017 SEMA Aftermarket Show
+> [578] Was Trump Clueless About the 4 Million Cars Japan Builds in the US Now?
+> [580] Ford, Qualcomm to Test C-V2X Wireless Safety Signaling
+> [581] How VW aced diesel emissions tests (hint: like Tom Brady, only in reverse)
+> [582] Did Audi have its own gasoline emissions defeat switch, too?
+> [587] Gas vs. diesel vs. hybrid: Which car engine is best for you and the environment?
+> [588] Samsung buys Harman: further proof the car is the biggest consumer electronics device
+> [589] Big boost for self-driving cars: Osram cuts lidar cost to less than $50
+> [590] Uber Drivers Earn About the Same, Fare Hikes or Fare Cuts
+> [591] 2014 Chevrolet Spark EV review: Electric motor and $50 navigation wash away sins of the gas version
+> [592] Bose Sells Off Its Revolutionary Electromagnetic Suspension
+> [593] Meet Mrs. Roboto: Nissans Automated Car Door Closer
+> [598] Acura Precision Cockpit: Futuristic? Check. Suitable for production? Just about
+> [600] Hyundai will sell a hydrogen fuel cell SUV in 2014, 300-mile range expected
+> [603] 2013 LA Auto Show: The best tech cars
+> [604] Why VW pulled the plug on diesels in the US: Its time to focus on EVs
+> [605] Top tech cars of the 2014 Los Angeles Auto Show
+> [606] Cold, dead fingers: Will motorists give up in-car cellphone access without a fight?
+> [607] Best Cars of the 2017 Los Angeles Auto Show
+> [609] 2015 BMW i8 review: The first eco-friendly supercar
+> [612] Self-driving cars will hit the streets by 2020 says Nissan at CEATEC
+> [613] Top tech cars of the 2016 Paris Motor Show
+> [615] GM resurrects the fuel cell for the Chevrolet Colorado ZH2 military vehicle
+> [617] 20 in 23: GM Joins the Parade to an All-Electric Future
+> [618] 2014 Chevrolet Cruze diesel review: 50 mpg, 700 miles between fill-ups from a decent compact
+> [619] Top Cars of the 2018 Paris Motor Show
+> [620] Most Car Infotainment Systems Increase Distraction, AAA Study Finds
+> [623] Das Blunder? VW blames engineers, not execs, for diesel woes, then bails on US diesels
+> [624] Volvo: Well take the blame if our self-driving cars crash
+> [625] Germany votes to ban internal combustion engine cars by 2030
+> [628] BMWs 100-year vision: a smart motorcycle that wont tip or crash
+> [633] Silicon Allee: Germanys Tech Hub for Electric Cars, Scooters, and Bikes
+> [638] Consumer Reports announces most, least reliable cars -- with plenty of surprises
+> [639] 2017 Acura NSX tested: Why its the exemplar for all supercars
+> [640] Why MIT is teaming up with Lamborghini: to create even better supercars
+> [645] VW diesels owners say, Well take the buyback, not the repair
+> [646] Smart Envisions EQ Fortwo Concept as Ride-Sharing, Self-Driving EV
+> [652] 2017 Honda Civic Type R Review: The Best $35,000 Sports Sedan You Can Buy
+> [654] Qualcomm Is Building a Vehicle-to-Everything Chip for Safer Cars
+> [655] Premium vs. Regular: Whats the Right Gas for Your Car or SUV?
+> [657] BMW: Well Have 25 Electrified Models by 2025
+> [659] Meet the 2016 Toyota Prius: longer, sportier and 55 mpg
+> [660] Your 3D-printed car will be ready to drive in 44 hours
+> [661] BMWs Will Get a Conversational Personal Assistant in 2019
+> [665] Why self-driving cars are drawing ever closer -- except from Apple
+> [666] Hands on from the back seat of Fords self-driving car: It really works
+> [668] Best Electric Cars at the 2017 Frankfurt Auto Show
+> [672] Google may be adding speed limits to Google Maps
+> [673] Best Cars of the 2017 Frankfurt Auto Show
+> [674] Frankfurt Auto Show: Mercedes shows off fully autonomous S-Class, production cars coming by 2020
+> [675] BMW Sounds Taps for Doktor Diesel in the US
+> [676] BMW iNext Concept: Electrification, Self-Driving, and Style
+> [678] Conductive Smart Tires Sense Road, Adjust Width and Pressure to Adapt
+> [680] Phones, Retinal Scans Could Soon Replace Your Car Keys
+> [682] Why you should buy a diesel car right now -- or keep the one you own
+> [684] Even Clean Diesel Exhaust Has Health Risks: MIT Study
+> [685] Big Cadillac Recall: NYC Headquarters Moving Back to Detroit
+> [690] Meet the VW ID electric car: 300-plus mile range in 2020, self-driving by 2025
+> [707] VW spent an entire decade cheating on diesel emissions
+> [729] Hands Off With Ambarellas Camera-Only Self-Driving Car Tech
+> [733] Nvidia goes all-in on self-driving cars, including a robotic car racing league
+> [750] Autonomous taxis: Why you may never own a self-driving car
+> [810] Roborace shows off its driverless race car at MWC
+> [813] Nvidia wants its new Drive PX 2 supercomputer to drive your next car
+> [828] Toyota is ready to sell fuel cell cars in 2015 after a decade of prototypes
+> [840] CES 2014 in pictures: 5K TVs, the worlds noisiest Dalek, an aimbot rifle, and more
+> [910] Intel buys Mobileye for $15 billion to lead its self-driving car unit
+> [916] Self-Driving Uber Hits Pedestrian, People Freak Out
+> [918] Ubers Deadly Self-Driving Accident: What We Know So Far
+> [924] New Video of the Tempe Crash Looks Really Bad for Uber and Its Driver
+> [952] Why Self-Driving Cars Keep Running Into Things
+> [966] Electric cars and hybrids will soon have to announce their presence
+> [979] Ten years after their debut, autonomous trucks are finally hitting the roads
+> [981] Your next car may be the most powerful computer you own
+> [1044] Transparent Samsung truck could make driving much safer
+> [1061] Dumb new RAND report claims its impossible to road-test a robot
+> [1082] Terrafugias Transition flying car flies and drives for the first time in public (with video)
+> [1119] DARPA is building an autonomous vertical takeoff transport for troops, cars, and more
+> [1121] Self-driving cars right around the corner thanks to Google partnership
+> [1132] Other countries are beating the US to fully driverless cars. Let them.
+> [1242] Zero-day exploit lets hackers remotely force cars off the road
+> [1266] Self-driving forklift Ray brings automatic parking to the luxury market
+> [1374] Mercedes hydrogen-electric hybrid harvests solar and wind energy with its paint job
+> [1458] Googles autonomous car gets a B in driving test: Not great, but better than most of us
+> [1812] The future of cars is autopilot, not self-driving, according to Elon Musk
+
