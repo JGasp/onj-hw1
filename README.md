@@ -23,4 +23,4 @@ Downloaded files then have to be zipped for futher use in analysis script.
 
 ### Text analysis
 To perform text analysis run script [tech_news_analysis.py](https://github.com/JGasp/onj-hw1/blob/master/src/tech_news_analysis.py)
-this is provided you have file res/tech_news.zip in working direcotry. The script will produce console output similar to available results and visualize clustering.
+this is provided you have file [res/tech_news.zip](https://github.com/JGasp/onj-hw1/blob/master/res/tech_news.zip) in working direcotry. The script will produce console output similar to available results and visualize clustering.
